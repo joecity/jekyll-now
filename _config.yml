@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Joe Agile
 locale:           en_US
-url:              
-
+url:              joeagile.com
 
 # Jekyll configuration
 
@@ -26,9 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Terrence Joe
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Agile Consultant"
   email: 
   disqus-shortname: 
   twitter: #username
