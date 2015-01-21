@@ -1,25 +1,15 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Me
+tags: [about, Jekyll, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I have worked with Software Development for over a decade, in a number of different industries including Finance, Public Relations, Media Monitoring, Government Departments, and Security to name a few.
 
-## Minimal Mistakes is all about:
+My roots are as a Software Developer, and my area of expertise and interest lies with both the technical aspects of Software Development, as well as the agile process and mindset that will help companies to foster a successful software development culture.  In this day and age where "every company is a software company", I want to contribute what I have learned about what works, and what doesn't, when it goes to Agile software development.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+For the best chance of success, teams need to be adept at applying the agile process, as well as having high quality technical practises, from the architecture of their system through to the application of XP practises.  This blog will cover topics that will help contribute towards these goals.
