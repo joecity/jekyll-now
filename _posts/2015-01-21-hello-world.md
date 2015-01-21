@@ -6,7 +6,7 @@ modified: 2015-01-21
 tags: [intro]
 comments: true
 image:
-  feature: posts/2015-01-21.jpg
+  feature: posts/2015-01-21-header.jpg
 ---
 
 <section id="table-of-contents" class="toc">
