@@ -21,7 +21,7 @@ image:
 
 There is an insidious little problem out there that I have seen almost everywhere to varying degrees.  It starts small; little things here and there, but can rapidly spiral out of control into a full blown abusive relationship.  I want to write about this to help break the cycle now!
 
-I am talking about Estimation Abuse.  What does this mean?  This is the misuse and abuse of the humble story point estimations, and can range from just small grievances to huge developer soul destroying monstrosities.
+I am talking about Estimation Abuse.  The misuse and abuse of the humble story point estimations, and can range from just small grievances to huge developer soul destroying monstrosities.
 
 ## What are Story Point Estimations
 
