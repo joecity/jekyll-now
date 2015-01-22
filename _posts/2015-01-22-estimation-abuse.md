@@ -68,7 +68,7 @@ It can also be useful to see if a team velocity starts to decrease; the team may
 
 ## What do we do with Estimates?
 
-You may notice from the list of benefits of estimations, that all of the benefits are for the team.  Also, the potential cost of estimate abuse is much higher than the benefits of having them in the first place.  This has led me to one rule I try to apply:
+You may notice from the list of benefits of estimations, that all of the benefits are for the team.  Once the points leave the team though and get into manager / stakeholder hands, the benefits fall drastically and the potential problems go up.  This has led me to one rule I try to apply:
 
 > Story Estimations are to be used and kept within the team *only*
 
@@ -78,4 +78,4 @@ When the team wants to communicate what they have completed or what they forecas
 
 ## Summary
 
-A lot of time and energy can go into the estimate debate.  Do we estimate, do we not, do we use tasks and hours, do we use points, t-shirt sizes or Chuck Norris fly kicks?  If we keep points in their rightful place - as a tool within the team only, then the debate should not be so strong and the burden not so heavy.  Let the team decide what to do, and in the true spirit of empiricism, try each method.  Try points, try t-shirt sizes, try #noestimates... and let the team decide what works best for them.
+A lot of time and energy can go into the estimate debate.  Do we estimate, do we not, do we use tasks and hours, do we use points, t-shirt sizes or Chuck Norris kick heights?  If we keep points in their rightful place - as a tool within the team only, then the debate should not be so strong and the burden not so heavy.  Let the team decide what to do, and in the true spirit of empiricism, try each method.  Try points, try t-shirt sizes, try #noestimates... and let the team decide what works best for them.
