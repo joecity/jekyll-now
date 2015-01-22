@@ -24,8 +24,8 @@ image:
 Its New Years Eve 2014, I am in the great down under you might know as Australia.  People are going mental; the biggest DJ's are playing, alcohol is flowing, girl's are wooing, guys are chasing woo girls, hipsters are almost looking like they're having fun.  I am thinking about Software.
 
 <figure>
-	<a href="https://www.youtube.com/watch?v=W6DmHGYy_xk"><img src="../images/posts/2015-01-21-wrecking-ball.jpg"></a>
-	<figcaption><a href="https://www.youtube.com/watch?v=W6DmHGYy_xk">NYE: Things were about to get out of hand</a></figcaption>
+	<a href="https://www.youtube.com/watch?v=W6DmHGYy_xk" target="_blank"><img src="../images/posts/2015-01-21-wrecking-ball.jpg"></a>
+	<figcaption><a href="https://www.youtube.com/watch?v=W6DmHGYy_xk" target="_blank">NYE: Things were about to get out of hand</a></figcaption>
 </figure>
 
 Its not that I don't like DJ's or wooing or even hipsters having fun, but I was taking a moment to think about the year ahead and what goal I should set for myself.  Each year I have set something new.  Move from Delphi to .Net *check*, delve into eXtreme Programming *check*, learn about agile process and become a scrum master *check*, focus more on software architecture and SOA *check*, start consulting *check*.
