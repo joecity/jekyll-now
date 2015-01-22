@@ -24,7 +24,7 @@ image:
 Its New Years Eve 2014, I am in the great down under you might know as Australia.  People are going mental; the biggest DJ's are playing, alcohol is flowing, girl's are wooing, guys are chasing aforementioned woo girls, hipsters are almost looking like they're having fun.  I am thinking about Software.
 
 <figure>
-	<img src="images/2015-01-21-wrecking-ball.jpg">
+	<img src="../images/posts/2015-01-21-wrecking-ball.jpg">
 	<figcaption>NYE: Things were about to <a href="https://www.youtube.com/watch?v=W6DmHGYy_xk">get out of hand</a></figcaption>
 </figure>
 
