@@ -21,21 +21,21 @@ image:
 
 ## Welcome to the joeagile blog
 
-Its New Years Eve 2014, I am in the great down under you might know as Australia.  People are going mental; the biggest DJ's are playing, alcohol is flowing, girl's are wooing, guys are chasing aforementioned woo girls, hipsters are almost looking like they're having fun.  I am thinking about Software.
+Its New Years Eve 2014, I am in the great down under you might know as Australia.  People are going mental; the biggest DJ's are playing, alcohol is flowing, girl's are wooing, guys are chasing woo girls, hipsters are almost looking like they're having fun.  I am thinking about Software.
 
 <figure>
-	<img src="../images/posts/2015-01-21-wrecking-ball.jpg">
-	<figcaption>NYE: Things were about to <a href="https://www.youtube.com/watch?v=W6DmHGYy_xk">get out of hand</a></figcaption>
+	<a href="https://www.youtube.com/watch?v=W6DmHGYy_xk"><img src="../images/posts/2015-01-21-wrecking-ball.jpg"></a>
+	<figcaption><a href="https://www.youtube.com/watch?v=W6DmHGYy_xk">NYE: Things were about to get out of hand</a></figcaption>
 </figure>
 
-Its not that I don't like wooing or hipsters having fun, but I was taking a moment to think about the year ahead and what goal I should set for myself.  Each year I have set something new.  Move from Delphi to .Net *check*, delve into eXtreme Programming *check*, learn about agile process and become a scrum master *check*, focus more on software architecture and SOA *check*, start consulting *check*.
+Its not that I don't like DJ's or wooing or even hipsters having fun, but I was taking a moment to think about the year ahead and what goal I should set for myself.  Each year I have set something new.  Move from Delphi to .Net *check*, delve into eXtreme Programming *check*, learn about agile process and become a scrum master *check*, focus more on software architecture and SOA *check*, start consulting *check*.
 
-What next?  Then it came to me; I have learnt so much from the community, it is time for me to give something back.  Its something I've wanted to do for a while and what better motivation to do it than a new years resolution.  I will write a blog about agile software development.  
+What next?  Then it came to me; I have learnt so much from the community, it is time for me to give something back.  I will start a blog about agile software development.  Its something I've wanted to do for a while and the time seems right; its a new year and I am in between contracts with plenty of free time.
 
 ## How will this blog be different?
 
-I have noticed most blogs concentrate on either being very technical coding tutorials and techniques, or being focused on agile process, mindset, being a change agent, etc.
+I have noticed most tech blogs concentrate on either being very technical coding tutorials, or being focused on agile process, mindset, being a change agent, etc.
 
-I believe that to be successful, you need to combine both.  Agile process and mindset is important; how to educate and align the business, how to overcome blockers to agile, discussions on estimates and productivity are all key.  But equally as important is a good focus on technical practises; how to architect an agile software system, the "is TDD dead" debate, continuous integration and delivery.  Both aspects are dependant on each other and crucial for a successful Software Development strategy.
+I believe that to be successful, you need to combine both.  Agile process and mindset is important; how to educate and align the business, how to overcome blockers to agile, discussions on estimates and productivity are all key.  But equally as important is a good focus on technical practises; for example how to architect an agile software system, the "is TDD dead" debate, continuous integration and delivery.  Both aspects are dependant on each other and crucial for a successful Software Development strategy.
 
 Stay tuned - more on Agile Software Development to come!
