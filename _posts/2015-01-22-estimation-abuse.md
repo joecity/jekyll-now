@@ -35,17 +35,18 @@ Teams may use any measure to indicate story sizes; T-Shirt sizes, story points, 
 
 Oh yes they can and they do.  Story points can go from a seemingly inconsequential, harmless exercise to a dangerous black hole that threatens the sanity of any team.  Let me give some examples of estimate abuse that I know has happened in the real world.
 
-* Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?". 
- * Back to big design up front
+* Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?". *Back to big design up front*
 * A Dollar per Point formula has been made to calculate cost per story.  "A point roughly takes this much time, time = money, WHAM".  *Those numbers we slapped on just became part of a complicated budget*
-* Teams start being compared based on how many points they complete *points to measure productivity*
-* The bonus salary for the team was based on how many points the team could achieve *points to measure productivity*
-* Stakeholders start making demands on how many points a team must complete *points start to become the focus over business features*
-* Managers start micro managing and getting involved with estimating stories
-* Teams are told they have no choice, they have to estimate all stories using points *the erosion of the self managing team*
-* The backlog has some kind of "Point Lockdown", where nobody can add any more story points to the backlog as there is no more budget for them *Back to big design up front*
+* Teams start being compared based on how many points they complete. *points to measure productivity*
+* The bonus salary for the team was based on how many points the team could achieve. *points to measure productivity*
+* Stakeholders start making demands on how many points a team must complete. *points became the focus over business features*
+* Managers start micro managing and getting involved with estimating stories. *no one likes a micro manager*
+* Teams are told they have no choice, they have to estimate all stories using points. *the erosion of the self managing team*
+* The backlog has some kind of "Point Lockdown", where nobody can add any more story points to the backlog as there is no more budget for them. *Back to big design up front*
 
-Hopefully you can see the problems with these scenarios above.  Most of them come from putting too much emphasis on estimations.  Interestingly, many of the problems listed sound like a subtle return to the Waterfall ways, where project managers micro manage and scope is planned and set in stone up front!  The simple story estimation can start with good intentions, but can be like a sneaky back door that allows the dirty old habits of Software Development in the 90's creep back in.
+Hopefully you can see the problems with these scenarios above.  Most of them come from putting too much emphasis on estimations.  Interestingly, many of the problems listed sound like a subtle return to the Waterfall ways, where project managers micro manage and scope is planned and set in stone up front!
+
+The simple story estimation can start with good intentions, but can be like a sneaky back door that allows the dirty old habits of Software Development in the 90's creep back in.
 
 <figure>
 	<img src="../images/posts/2015-01-22-egg.jpg">
@@ -62,8 +63,6 @@ The Product Owner is the one who is in charge of writing User Stories and then p
 
 ### Help the team to Inspect and Adapt..
 
-Teams can inspect an adapt in two ways.
-
 #### ...on a story
 
 When teams add an estimation to a story, they have to think about it a bit more.  Stories that are too large and need to be broken down may be identified here.  Also if a team is trying to plan how many stories they forecast they can do, points can help them determine this based on what they have achieved in the past.
@@ -79,7 +78,9 @@ While teams may inspect and adapt on their velocity, allowing those outside the 
 ## Caution: Using estimations as a measure of Productivity
 Measuring developer productivity is always tricky, and velocity seems like a great measure to use; after all, the numbers are already sitting there begging to be put into an Excel chart.  In practise though, it does not work out too well.
 
-Think about it; we are asking teams to quickly guess a number, and then use that number to measure their performance later on.  This will inevitably lead to a natural point inflation.  You may then feel a need to implement measures to help counteract this effect, such as a tech lead or manager vetting all of the estimated points.  Putting too much pressure on the point estimations may lead to excessively detailed, drawn out planning sessions.  All of a sudden the estimation process has gone from a quick activity that can help the team, to a political, team morale destroying exercise.
+Think about it; we are asking teams to quickly guess a number, and then use that number to measure their performance later on.  This will inevitably lead to a natural point inflation.  You may then feel a need to implement measures to help counteract this effect, such as a tech lead or manager vetting all of the estimated points.  Putting too much pressure on the point estimations may lead to excessively detailed, drawn out planning sessions.
+
+All of a sudden the estimation process has gone from a quick activity that can help the team, to a political, team morale destroying exercise.
 
 ## How can we practise safe estimates?
 
@@ -88,6 +89,9 @@ You may notice from the list of benefits of estimations, that all of the benefit
 > Story Estimations are to be used and kept within the team *only*
 
 Treat the estimates like code; code is usually kept internal to the team as the business doesn't understand it, treat estimates the same way.  When the team wants to communicate what they have completed or what they forecast next, just don't use the (made-up by the team) story point estimations.  List the business features, or goals, or actionable metrics - anything other than points.
+
+Disclaimer: There are no golden rules.  Perhaps you work in a great forward thinking environment where you can practise unsafe estimates, leak the points out everywhere and you don't get any problems coming back, great!
+{: .notice}
 
 ## Summary
 
