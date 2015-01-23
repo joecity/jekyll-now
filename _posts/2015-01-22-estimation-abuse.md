@@ -61,13 +61,13 @@ Most of these problems are born out of a complete misuse of Story estimations.  
 
 The Product Owner is the one who is in charge of writing User Stories and then prioritising them for the team.  Knowing about the size of a User Story will help the Product Owner with this task; the smaller, yet higher value User Stories should rise to the top.  Everyone wants a Ferarri - until they see the price tag.  Then they settle for Grandma's old moped instead.
 
-### Help the team to Inspect and Adapt..
+### Help the team to Inspect and Adapt...
 
 #### ...on a story
 
 When teams add an estimation to a story, they have to think about it a bit more.  Stories that are too large and need to be broken down may be identified here.  Also if a team is trying to plan how many stories they forecast they can do, points can help them determine this based on what they have achieved in the past.
 
-#### ..on a sprint, or iteration
+#### ...on a sprint, or iteration
 After a while, a team can calculate a velocity.  This is how many points the team can achieve in a certain period of time, on average.  This can help a team become more predictable; they can have some level of confidence to guess what they are capable of outputting.
 It can also be useful to see if a team velocity starts to decrease; the team may want to inspect and adapt to try and address a supposed drop in velocity.
 
@@ -90,7 +90,7 @@ You may notice from the list of benefits of estimations, that all of the benefit
 
 Treat the estimates like code; code is usually kept internal to the team as the business doesn't understand it, treat estimates the same way.  When the team wants to communicate what they have completed or what they forecast next, just don't use the (made-up by the team) story point estimations.  List the business features, or goals, or actionable metrics - anything other than points.
 
-Disclaimer: There are no golden rules.  Perhaps you work in a great forward thinking environment where you can practise unsafe estimates, leak the points out everywhere and you don't get any problems coming back, great!
+Disclaimer: There are no golden rules.  Perhaps you work in a great forward thinking environment where you can practise unsafe estimates, share the estimates everywhere and you don't get any problems coming back.  You must be in agile heaven :)
 {: .notice}
 
 ## Summary
