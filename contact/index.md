@@ -10,7 +10,7 @@ image:
 
 I am currently working as an Agile Consultant in London.  If you would like to get in touch please do so at:
 
-mailto:info@joeagile.com
+<a href="mailto:info@joeagile.com">info@joeagile.com</a>
 
 Thanks,
 Terrence Joe
