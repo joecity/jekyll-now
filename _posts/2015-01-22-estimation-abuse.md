@@ -35,7 +35,8 @@ Teams may use any measure to indicate story sizes; T-Shirt sizes, story points, 
 
 Oh yes they can and they do.  Story points can go from a seemingly inconsequential, harmless exercise to a dangerous black hole that threatens the sanity of any team.  Let me give some examples of estimate abuse that I know has happened in the real world.
 
-* Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?".  *Back to big design up front*
+* Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?". 
+ * Back to big design up front
 * A Dollar per Point formula has been made to calculate cost per story.  "A point roughly takes this much time, time = money, WHAM".  *Those numbers we slapped on just became part of a complicated budget*
 * Teams start being compared based on how many points they complete *points to measure productivity*
 * The bonus salary for the team was based on how many points the team could achieve *points to measure productivity*
