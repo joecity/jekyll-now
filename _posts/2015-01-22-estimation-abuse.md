@@ -59,7 +59,7 @@ Most of these problems are born out of a complete misuse of Story estimations.  
 
 ### Help the Product Owner prioritise
 
-The Product Owner is the one who is in charge of writing User Stories and then prioritising them for the team.  Knowing about the size of a User Story will help the Product Owner with this task; the smaller, yet higher value User Stories should rise to the top.  Everyone wants a Ferarri - until they see the price tag.  Then they settle for Grandma's old moped instead.
+The Product Owner is the one who is ultimately in charge of the backlog of User Stories, and prioritising them for the team.  Knowing about the size of a User Story will help the Product Owner with this task; the smaller, yet higher value User Stories should rise to the top.  Everyone wants a Ferarri - until they see the price tag.  Then they settle for Grandma's old moped instead.
 
 ### Help the team to Inspect and Adapt...
 
