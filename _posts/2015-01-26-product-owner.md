@@ -6,7 +6,7 @@ modified: 2015-01-22
 tags: [agiletrack, agile, estimation, storypoints]
 comments: true
 image:
-  feature: posts/2015-01-22-header.jpg
+  feature: posts/2015-01-26-header.jpg
 ---
 
 <section id="table-of-contents" class="toc">
