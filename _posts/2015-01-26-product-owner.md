@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Good Product Owner: scrums Mythical Unicorn?
-excerpt: "The captain of the ship, driver of the car, cornerstone of the team, and all round good person..."
-modified: 2015-01-26
-tags: [agiletrack, productowner]
+title: Ever met a "good" Product Owner?
+excerpt: "An often overlooked role, what makes a good Product Owner?"
+modified: 2015-01-22
+tags: [agiletrack, agile, estimation, storypoints]
 comments: true
 image:
-  feature: posts/2015-01-26-header.jpg
+  feature: posts/2015-01-22-header.jpg
 ---
 
 <section id="table-of-contents" class="toc">
@@ -23,7 +23,9 @@ I went to an agile talk where the speaker made an outlandish claim. He said in a
 
 That statement, like a carefully crafted Daily Mail headline, got me thinking... How many good product owners have I seen? What makes one "good"? Are we asking too much from one role? If so, how can we help out here?
 
-The Product Owner is such a critical part of the team, and agile delivery, I have decided to make this a multi-part post to cover the topic.  This article will cover the key responsibilities of a Product Owner.  I then want to follow this up with common problems Scrum teams and their Product Owners face, barriers to being a "good" Product Owner, and what we as agile coaches, scrum masters and team members can do to help mitigate them.
+There seems to be a lot of focus on agile coaches and scrum masters, and the poor product owner can often be overlooked.  However the Product Owner is arguably the most important part of a team, a critical role for successful agile delivery.  I have decided to make this a multi-part post to cover the topic.
+
+This article will cover the key responsibilities of a Product Owner.  I then want to follow this up with common problems Scrum teams and their Product Owners face, barriers to being a "good" Product Owner, and what we as agile coaches, scrum masters and team members can do to help mitigate them.
 
 ## What is a Product Owner?
 
