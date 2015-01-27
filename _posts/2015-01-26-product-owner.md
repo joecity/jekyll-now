@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ever met a "good" Product Owner?
-excerpt: "An often overlooked role, what makes a good Product Owner?"
+excerpt: "An often overlooked role, what makes one good?"
 modified: 2015-01-26
 tags: [agiletrack, agile, product owner]
 comments: true
