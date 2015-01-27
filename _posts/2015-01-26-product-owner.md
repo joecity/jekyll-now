@@ -3,7 +3,7 @@ layout: post
 title: Ever met a "good" Product Owner?
 excerpt: "An often overlooked role, what makes a good Product Owner?"
 modified: 2015-01-22
-tags: [agiletrack, agile, estimation, storypoints]
+tags: [agiletrack, agile, product owner]
 comments: true
 image:
   feature: posts/2015-01-26-header.jpg
@@ -21,11 +21,9 @@ image:
 
 I went to an agile talk where the speaker made an outlandish claim. He said in an off the cuff comment that in about 20 years of consulting across many different agile teams, he has met only 1 or 2 good product owners.
 
-That statement, like a carefully crafted Daily Mail headline, got me thinking... How many good product owners have I seen? What makes one "good"? Are we asking too much from one role? If so, how can we help out here?
+That statement, like a carefully crafted Daily Mail headline, got me thinking... How many good product owners have I seen? What makes one "good"? Are we asking too much from one role? How can we try and improve the situation?
 
-There seems to be a lot of focus on agile coaches and scrum masters, and the poor product owner can often be overlooked.  However the Product Owner is arguably the most important part of a team, a critical role for successful agile delivery.  I have decided to make this a multi-part post to cover the topic.
-
-This article will cover the key responsibilities of a Product Owner.  I then want to follow this up with common problems Scrum teams and their Product Owners face, barriers to being a "good" Product Owner, and what we as agile coaches, scrum masters and team members can do to help mitigate them.
+There seems to be a lot of focus on agile coaches and scrum masters, and the poor product owner can often be overlooked.  However the Product Owner plays arguably the most important role of a team, a critical role for successful agile delivery.
 
 ## What is a Product Owner?
 
@@ -89,4 +87,4 @@ Because Scrum works with iterative releases, there should be many opportunities 
 
 These are just some of the key functions that a "good" Product Owner will need to fulfil.  The product owner is in charge of the backlog, a domain expert, a visionary, the face of the team, the facilitator of key stakeholders, and an all round generally good person.
 
-The reality is though, as noted at the beginning, while it is a critical role in the team and for agile delivery, it's not always smooth sailing.  In a future post I will run through common problems, and what agile coaches, scrum masters, and team members can do to help.
+The reality is though, as noted at the beginning, while it is a critical role in the team and for agile delivery, more often than not it's not such smooth sailing.  In a future post I will run through common barriers teams and organisations may face with the product owner role, and what we as agile coaches, scrum masters, and team members can do to help to mitigate them.
