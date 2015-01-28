@@ -27,7 +27,7 @@ There seems to be a lot of focus on agile coaches and scrum masters, and the poo
 
 ## What is a Product Owner?
 
-The Product Owner is a corner stone of the team.  With numerous responsibilities, there are a number of different thoughts our there about what defines them, and what is involved with the role. I think though there is one key attribute that defines the product owner:
+With numerous responsibilities, there are a number of different thoughts our there about what defines them, and what is involved with the role. I think though there is one key attribute that defines the product owner:
 
 > The person who is ultimately responsible for the direction and success of the product
 
@@ -44,7 +44,12 @@ That is a pretty heavy burden for anyone to take on.  What exactly is expected o
 
 The backlog is the priority ordered list of <a href="http://en.wikipedia.org/wiki/User_story" target="_blank">User Stories</a> that the team will work on. While User Stories may originate from a number of different sources (the team, the sales department, the CEO, etc), it is the Product Owner who must filter through the noise and make the final call on what does and what doesn't go to the top of the Backlog.
 
-This makes the Product Owner a bit like the captain of a sailing ship.  We have all seen videos of the crew on a ship working at a fervent pace, and the whole crew are responsible for how well the ship will move and respond.  However at the end of the day, the ship will go exactly where the captain points the rudder. In the same way, the scrum team will work hard to achieve their sprint goals, and the team is responsible for the quality and speed of its output, but ultimately the product will end up where the Product Owner steers the backlog.
+To do this they will have to gauge the value of the stories vs the size of the stories.  Of course, both of these figures will just be best guesses, but the product owner can get help to guess the value of a story by engaging stakeholders, and communicate with the team to help size them.
+
+Note: The toughest part here will be saying "no" to new user stories.  There will likely be far more stories coming in than what the team will be capable of outputting.
+{: .notice}
+
+Owning the backlog makes the Product Owner a bit like the captain of a sailing ship.  We have all seen videos of the crew on a ship working at a fervent pace, and the whole crew are responsible for how well the ship will move and respond.  However at the end of the day, the ship will go exactly where the captain points the rudder. In the same way, the scrum team will work hard to achieve their sprint goals, and the team is responsible for the quality and speed of its output, but ultimately the product will end up where the Product Owner steers the backlog.
 
 This is not to say that the team cannot feel some shared ownership of the product, or have some input with writing stories on the backlog.  There is however, one role who can see the "big picture" and so has the final say on what stories make it into the backlog.
 {: .notice}
@@ -73,7 +78,7 @@ With the product owner being so invested in the product that the team is working
 
 I think it is crucial that the Product Owner is counted as, and behaves as, part of the team.
 
-If this team bond is strong, and the team trust and respect their product owner, they will feel more combined ownership of their product and work hard to support him or her.  The more shared ownership and knowledge the team may glean from the product owner, and the less they are blocked because such knowledge is absent, the better.
+If this team bond is strong, and the team trust and respect their product owner, they will feel more combined ownership of their product and work hard to support him or her.  The more shared ownership and knowledge the team may glean from the product owner, and the less they are blocked or go in the wrong direction because such knowledge is absent, the better.
 
 The product owner in turn will have greater knowledge of how the team functions, what they are working on and any pain points they might be experiencing.  He or she will then be much better placed to provide an answer when asked how the product is progressing, and can confidently and accurately represent the product status back to the business.  The product owner doesn't have to be a technical giant, but a small understanding of what the team is working on will definitely help.
 
@@ -85,6 +90,6 @@ Because Scrum works with iterative releases, there should be many opportunities 
 
 ## Summary
 
-These are just some of the key functions that a "good" Product Owner will need to fulfil.  The product owner is in charge of the backlog, a domain expert, a visionary, the face of the team, the facilitator of key stakeholders, and an all round generally good person.
+These are just some of the key functions that a "good" Product Owner will need to fulfil.  An expert in communication, the product owner collaborates to form a backlog, is a domain expert, a visionary, the face of the team, the facilitator of key stakeholders, and an all round generally good person.
 
 The reality is though, as noted at the beginning, while it is a critical role in the team and for agile delivery, more often than not it's not such smooth sailing.  In a future post I will run through common barriers teams and organisations may face with the product owner role, and what we as agile coaches, scrum masters, and team members can do to help to mitigate them.
