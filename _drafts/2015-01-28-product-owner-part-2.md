@@ -19,7 +19,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-In Part 1, we ran through some of the responsibilities of what will help to make a "good" product owner.  The problem is, many organisations and teams may be struggling to have a product owner in place that can give the role the love it needs.
+In <a href="../product-owner">Part 1</a>, we ran through some of the responsibilities of what will help to make a "good" product owner.  The problem is, many organisations and teams may be struggling to have a product owner in place that can give the role the love it needs.
 
 Let's run through some common problems I have seen and some ideas on how we as agile coaches, scrum masters and team members can assist the product owner role.
 
@@ -145,6 +145,8 @@ Simple really: the team is missing an important meeting called refinement.  It i
 ### Fix it!
 
 As these large, coarse grained stories stories move closer to the top of the backlog, and closer to being worked on, some work needs to be done on them.  The stories will need to be broken into smaller stories, have acceptance criteria added to them, be sized, and prioritised.  This type of work is typically done with the team in refinement sessions.
+
+We would typically run a refinement session for an hour each sprint, so we had a nice backlog of "fine grained" stories for sprint planning.
 
 ## Summary
 
