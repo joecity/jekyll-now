@@ -118,22 +118,34 @@ Bob is in a position where he will naturally want to be pushing for more output 
 
 When put under pressure to deliver faster, the team will feel pressured to drop quality.  Skip out some unit tests, or leave their code a bit nastier than they would like.  Teams will already feel the pressure to do this, they are awarded for delivery after all, so this is a sensitive issue.
 
-Another issue, the product owner maybe overly distracting of the team, constantly asking for status updates or questioning the team as they work.
+Perhaps the product owner maybe overly distracting the team even during the sprint, constantly asking for status updates or questioning the team as they work.  They might even try to introduce new stories, or to stretch out stories that are already in progress a little.
 
 ### Symptoms
 
-It may be that the product owner is more senior than most of the people on the team; he or she may even be their line manager.  This is not a great situation to be in
+This is an indicator that there is an unhealthy tension in the team; whether the tension is the chicken or the egg is beside the point; it exists now.  The unhealthy tension exists between the product owner and the rest of the team.  Rather than feeling like they are all in the same boat, and that they are all one team, it feels like the product owner is on one side, and the team on the other, with the team feeling under pressure and the product owner as a demanding boss.
 
+Maybe, the product owner *is* the boss of the team.  Having a line manager as a product owner is not a great situation to be in; it is too easy for the product owner to start putting an unhealthy pressure on the team to bend to his or her will.  When the team feel pressure, the first thing to go is always quality.  A drop in quality will lead to mounting technical debt that will bring exponential pain later on.
 
+### Fix it!
 
+There is nothing wrong for the product owner to share with the team what they are going through, and what their hopes for delivery are.  This needs to be kept in check though; the balance between speed and quality is a fine line for a team to walk down.  The product owner needs to be made aware of the risks of pushing the team too hard.  This is particularly the case when the product owner is the boss.
 
+If the product owner is being disruptive during a sprint, then it maybe something that the whole team needs to work on.  The product owner needs to attend the daily stand up.  The team need to ensure they give concise, informative updates on their progress towards the goal.  The team also need to make sure they have huddles and conversations with the product owner as questions come up, or features are ready to be demoed.  If the product owner feels that this won't happen unless they regularly check on the team, then the disruptions will continue.
 
+## The user stories are too big!
 
+Yes, there is such a thing as too big.  Think about it this way - a sprint, or an iteration, is like a game of Tetris.  The Tetris board represents the limited time that a team will have, and the pieces can represent the user stories.  Imagine if in a game of Tetris, all of the blocks that fell from the top were just 1 block pieces.  The game would be too easy; filling the board up efficiently with little waste would be a breeze.  But as the Tetris blocks get bigger - say they start coming out as 10 block pieces, well filling the board efficiently becomes challenging if not impossible.
 
+It is the same with user stories.  Nice small stories that can be done in a day or two are great for the team to work with efficiently on, and plan for.  As the stories get larger though, and they start taking multiple days or even weeks, well this makes it almost impossible to plan for.  Certain people get stuck on the story, it becomes difficult to test, changes may start overlapping and impacting other stories, the list goes on.
 
+### Symptoms
 
+Simple really: the team is missing an important meeting called refinement.  It is natural that the product owner will get feature requests as epics, or "very large stories".  But these large, "coarse grained" stories need to be refined so that they are ready for the team to work on.
 
+### Fix it!
 
+As these large, coarse grained stories stories move closer to the top of the backlog, and closer to being worked on, some work needs to be done on them.  The stories will need to be broken into smaller stories, have acceptance criteria added to them, be sized, and prioritised.  This type of work is typically done with the team in refinement sessions.
 
+## Summary
 
-
+There are a number of different problems that product owners may have; this post has run through only a few of them.  It is a tough job!  But with the right level of support from the team, and from the agile coaches and scrum masters, we can have an effective, well functioning product owner on the team.
