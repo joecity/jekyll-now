@@ -90,6 +90,47 @@ Now imagine if instead of using a tool like Jira or Trello or TFS or Excel or an
 
 There will be many objections to stick to using a tool.  "We have to track defects", "We need to keep track of progress", "I am a Jira admin and would be without a job if you didn't use it".  I always encourage use of physical cards, and only resort to using a tool at the point that it becomes absolutely necessary, like for a team that might work remotely.  Physical cards help to keep stories well sized, limit how many can be managed at once, and more importantly should be an invitation for a conversation.  They cannot contain essays of annotations or wireframe attachments, good - let's have an interaction instead and get that detail from the horses mouth.
 
+
+## The user stories are too big
+
+That's a thing you ask?  Think about it this way - a sprint, or an iteration, is like a game of Tetris.  The Tetris board represents the limited time that a team will have, and the pieces can represent the user stories.  Imagine if in a game of Tetris, all of the blocks that fell from the top were just 1 block pieces.  The game would be too easy; filling the board up efficiently with little waste would be a breeze.  But as the Tetris blocks get bigger - say they start coming out as 10 block pieces, well filling the board efficiently becomes challenging if not impossible.
+
+It is the same with user stories.  Nice small stories that can be done in a day or two are great for the team to work with efficiently on, and plan for.  As the stories get larger though, and they start taking multiple days or even weeks, well this makes it almost impossible to plan for.  Certain people get stuck on the story, it becomes difficult to test, changes may start overlapping and impacting other stories, the list goes on.
+
+### Symptoms
+
+Simple really: the team is missing an important meeting called refinement.  It is natural that the product owner will get feature requests as epics, or "very large stories".  But these large, "coarse grained" stories need to be refined so that they are ready for the team to work on.
+
+The product owner may also not be familiar with how to write good user stories; it is something that takes a bit of practise.
+
+### Fix it!
+
+As these large, coarse grained stories stories move closer to the top of the backlog, and closer to being worked on, some work needs to be done on them.  The stories will need to be broken into smaller stories, have acceptance criteria added to them, be sized, and prioritised.  This type of work is typically done with the team in refinement sessions.
+
+We would typically run a refinement session for an hour each sprint, so we had a nice backlog of "fine grained" stories for sprint planning.
+
+The product owner, and the team, may also need some coaching on how to write good stories that abide by the INVEST principles.  More to come on this later.
+
+
+## The unempowered product owner
+
+The product owner role holds a lot of responsibility.  And as Spidermans uncle said, with great responsibility comes great power.  Well actually he said it the other way around, but anyway.
+
+I have personally seen that having a product owner that is not empowered leads to a lot of problems.  Miscommunication and the product heading in the wrong direction, delays in decisions, confusion in who actually owns the product, an unstable backlog, a direction-less team.
+
+### Symptoms
+
+The product owner may just be a glorified assistant; there is another role like a product manager who is in charge of the product vision, the market direction, collaborating with clients, etc, while the product owner has been left with the scrum team.
+
+The business may not trust the product owner to make the right decisions, so managers and other higher ups are constantly meddling and overruling decisions.  Or perhaps the product owner has to jump through management hoops any time he wants to make a decision.
+
+### Fix it!
+
+It is important to educate the business on the role of the product owner.  One of the key benefits of agile development is being able to close the gap between the team and the customers.  A product owner should be fully empowered to be able to play that role, and not have other managers interfering with this process.
+
+For a product owner to be effective, they have to also be the ones who own the vision of the product.  The person who collaborates with the customers and stakeholders, who builds a vision from this interaction, and who keeps tabs on the intended market, will be the best person to make the final decision on what should go into the backlog.  A properly functioning and trusted product owner will fill this role.
+
+
 ## The Product Owner is hardly available
 
 It's the daily stand up, but Bobs not there.  Instead he comes around an hour later and asks everyone for another update.
@@ -114,7 +155,7 @@ This is a case of educating the business on the role of the product owner.  If t
 
 Sometimes, the product owner role may need to be transferred to someone in the company who can actually be physically colocated with the team.  They may not have the most knowledge of the product, but they know who is and how to get access to them.
 
-This task can be tricky; convincing a business to commit another person full time, or to take the product owner role off a director, that is no easy task.  Perhaps a scrum master could try to measure the cost or impact of an unavailable product owner, and use these to present how it is hindering the development team.
+This task can be tricky; convincing a business to commit another full time body, or to take the product owner role off a director, that is no easy task.  Perhaps a scrum master could try to measure the cost or impact of an unavailable product owner, and use these to present how it is hindering the development team.
 
 ## The Product Owner bosses the team
 
@@ -138,24 +179,6 @@ If the product owner is being disruptive during a sprint, then it maybe somethin
 
 Finally, the product owner will need to be educated on agile principles, and learn to trust that a self managing team will work more effectively without being micro managed.  The product owner needs to stick to their job of steering the direction of the product, and leave the delivery of the actual product to the team.
 
-
-## The user stories are too big!
-
-I thought that was just a myth you say?  Think about it this way - a sprint, or an iteration, is like a game of Tetris.  The Tetris board represents the limited time that a team will have, and the pieces can represent the user stories.  Imagine if in a game of Tetris, all of the blocks that fell from the top were just 1 block pieces.  The game would be too easy; filling the board up efficiently with little waste would be a breeze.  But as the Tetris blocks get bigger - say they start coming out as 10 block pieces, well filling the board efficiently becomes challenging if not impossible.
-
-It is the same with user stories.  Nice small stories that can be done in a day or two are great for the team to work with efficiently on, and plan for.  As the stories get larger though, and they start taking multiple days or even weeks, well this makes it almost impossible to plan for.  Certain people get stuck on the story, it becomes difficult to test, changes may start overlapping and impacting other stories, the list goes on.
-
-### Symptoms
-
-Simple really: the team is missing an important meeting called refinement.  It is natural that the product owner will get feature requests as epics, or "very large stories".  But these large, "coarse grained" stories need to be refined so that they are ready for the team to work on.
-
-### Fix it!
-
-As these large, coarse grained stories stories move closer to the top of the backlog, and closer to being worked on, some work needs to be done on them.  The stories will need to be broken into smaller stories, have acceptance criteria added to them, be sized, and prioritised.  This type of work is typically done with the team in refinement sessions.
-
-We would typically run a refinement session for an hour each sprint, so we had a nice backlog of "fine grained" stories for sprint planning.
-
-The product owner, and the team, may also need some coaching on how to write good stories that abide by the INVEST principles.  More to come on this later.
 
 ## Summary
 
