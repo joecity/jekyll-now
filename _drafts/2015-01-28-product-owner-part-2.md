@@ -32,11 +32,13 @@ Let's run through some common problems I have seen and some ideas on how we as a
 
 It is sprint planning day.  The team walks into the room, and bob the product owner starts asking the team for any stories that surfaced last sprint.  After about 10 minutes, it suddenly becomes clear that there is no backlog, and the product owner is trying to come up with one on the spot.
 
+This is an unusual situation.  Under more healthy circumstances, Bob should be juggling with more stories than what the team can handle.
+
 ### Symptoms
 
-This is an unusual situation.  Under more healthy circumstances, there should normally be more stories flying into the backlog than what the team can handle.
+Bob could be struggling with a lack of vision on his part; he doesn't know where to start, or what needs to be done to provide value.  This could be because there is not enough collaboration happening with key stakeholders, or customers, or control groups that are representative of the market.
 
-This is a symptom that there is not enough collaboration happening with key stakeholders, or customers, or control groups that are representative of the market.  This is leading to a lack of vision on his part; he doesn't know where to start, or what needs to be done to provide value.
+Bob could have the opposite problem; he doesn't know where to start because his vision is so vast.
 
 This could also signal a wider problem in the business, that there is a gap between them and the team, and that it is not clear on how the agile process works.  Usually an organisation is packed with domain experts sitting right there a stones throw away; account managers who know exactly what the customers are screaming for, sales people who know a killer feature that might squash the competition, administration staff that have an idea that could slash business costs in half.  There will be many ideas out there, but there may be a communication gap present, stopping the experts to present them.  Perhaps they don't even know how, or who to discuss them with.
 
@@ -44,11 +46,13 @@ This could also signal a wider problem in the business, that there is a gap betw
 
 A backlog should always be at least a sprint of work ahead, so it should be very clear early on that this problem is developing.  Approach the product owner with a view to help; encourage them to collaborate firstly with the most knowledgeable experts in the company, as they should be more easily available.  Teach the product owner some requirements gathering techniques such as wireframing and story boarding.  Sit through the meetings with them to assist the process.  Then we can branch out further to customers, or control groups for example.
 
-Educate the business on the scrum process.  Run some open workshops to teach them how the team is working, and importantly the correct channel and way on how to propose features that they think will be valuable.  Encourage them to observe the daily stand up, and to come to product demo's.
+Gathering the right data from stakeholders and the market is no easy feat; there are books written on the topic.  The product owner will likely need as much support as they can get here.
 
-Remind the product owner that through all of this, their story selection doesn't have to be the perfect high value, small sized stories.  That is the beauty of empiricism; we pick the stories that we think are the best ones, then inspect, adapt and improve.  It doesn't have to be perfect right away.
+Educate the business on the teams agile process.  Run some open workshops to teach them how the team is working, and importantly the correct channel on how to propose features that they think will be valuable.  Encourage them to observe the daily stand up, and to come to product demo's.
 
-In time, as the product develops and people actually see something form, the idea's and the stories should start flooding in.
+Remind the product owner that through all of this, their story selection doesn't have to be the perfect high value, small sized stories right off the bat.  That is the beauty of empiricism; we pick the stories that we think are the best ones at the time, then inspect, adapt and improve.  It doesn't have to be perfect right away.
+
+In time, as the product develops and people actually see it start to form, the idea's and the stories should start flooding in.
 
 ## The backlog is too big
 
@@ -64,11 +68,11 @@ Oh yeah, and a plan that far in advance goes against that too.
 
 ### Symptom
 
-Quite obviously, the product owner isn't saying "no".  Although such a small word, but it can be much harder to say than you think.
+Quite obviously, the product owner isn't saying "no".  Although such a small word, it can be much harder to say than you think.
 
 When an account manager is begging for a feature or their client will leave, a sales director is yelling down the phone that a feature has to be done because "he has already sold it", when the CEO takes Bob out for coffee and says he wants something done, little Bob feels *pressure*.
 
-It may also be a symptom that Bob has not been empowered enough to truly manage the product backlog himself.  Maybe he *can't* say no.
+It may also be a symptom that Bob has not been empowered enough to truly manage the product backlog himself.  Maybe he *can't* say no.  Managers above him constantly trump him.
 
 ### Fix it!
 
@@ -108,7 +112,7 @@ Perhaps the product owner is at too higher level in a company.  Often, people sa
 
 This is a case of educating the business on the role of the product owner.  If they knew how critical the role was, they would realise they need someone who can fulfil the role properly and be a part of the team.
 
-Sometimes, the product owner role may need to be transferred to someone in the company who can join the team.  They may not have the most knowledge of the product, but they know who is and how to get access to them.
+Sometimes, the product owner role may need to be transferred to someone in the company who can actually be physically colocated with the team.  They may not have the most knowledge of the product, but they know who is and how to get access to them.
 
 This task can be tricky; convincing a business to commit another person full time, or to take the product owner role off a director, that is no easy task.  Perhaps a scrum master could try to measure the cost or impact of an unavailable product owner, and use these to present how it is hindering the development team.
 
@@ -116,15 +120,15 @@ This task can be tricky; convincing a business to commit another person full tim
 
 Bob is in a position where he will naturally want to be pushing for more output from the team.  He has a backlog of user stories, and he is eager to have as much value delivered to the business as possible.  There is nothing wrong with a little bit of a push from the product owner - in fact it can contribute to a healthy tension.  But too much, and it can become a morale destroying problem for the team.
 
-When put under pressure to deliver faster, the team will feel pressured to drop quality.  Skip out some unit tests, or leave their code a bit nastier than they would like.  Teams will already feel the pressure to do this, they are awarded for delivery after all, so this is a sensitive issue.
+When put under pressure to deliver faster, the team will feel pressured to drop quality.  Skip out some unit tests, or leave their code a bit dirtier than they would like.  Teams will already feel the pressure to do this, they are awarded for delivery after all, so this is a sensitive issue.
 
 Perhaps the product owner maybe overly distracting the team even during the sprint, constantly asking for status updates or questioning the team as they work.  They might even try to introduce new stories, or to stretch out stories that are already in progress a little.
 
 ### Symptoms
 
-This is an indicator that there is an unhealthy tension in the team; whether the tension is the chicken or the egg is beside the point; it exists now.  The unhealthy tension exists between the product owner and the rest of the team.  Rather than feeling like they are all in the same boat, and that they are all one team, it feels like the product owner is on one side, and the team on the other, with the team feeling under pressure and the product owner as a demanding boss.
+This is an indicator that there is an unhealthy tension in the team; whether the tension is the chicken or the egg is beside the point; it exists now.  The unhealthy tension exists between the product owner and the rest of the team.  Rather than feeling like they are all in the same boat, and that they are all one team, it feels like the product owner is on one side, and the team on the other, with the team feeling under pressure and the product owner as a demanding project manager or boss.
 
-Maybe, the product owner *is* the boss of the team.  Having a line manager as a product owner is not a great situation to be in; it is too easy for the product owner to start putting an unhealthy pressure on the team to bend to his or her will.  When the team feel pressure, the first thing to go is always quality.  A drop in quality will lead to mounting technical debt that will bring exponential pain later on.
+Maybe, the product owner *is* the boss.  Having a line manager as a product owner is not a great situation to be in; it is too easy for the product owner to start putting an unhealthy pressure on the team to bend to his or her will.  When the team feel pressure, quality will drop.  A drop in quality will lead to mounting technical debt that will bring exponential pain later on.
 
 ### Fix it!
 
@@ -132,9 +136,12 @@ There is nothing wrong for the product owner to share with the team what they ar
 
 If the product owner is being disruptive during a sprint, then it maybe something that the whole team needs to work on.  The product owner needs to attend the daily stand up.  The team need to ensure they give concise, informative updates on their progress towards the goal.  The team also need to make sure they have huddles and conversations with the product owner as questions come up, or features are ready to be demoed.  If the product owner feels that this won't happen unless they regularly check on the team, then the disruptions will continue.
 
+Finally, the product owner will need to be educated on agile principles, and learn to trust that a self managing team will work more effectively without being micro managed.  The product owner needs to stick to their job of steering the direction of the product, and leave the delivery of the actual product to the team.
+
+
 ## The user stories are too big!
 
-Yes, there is such a thing as too big.  Think about it this way - a sprint, or an iteration, is like a game of Tetris.  The Tetris board represents the limited time that a team will have, and the pieces can represent the user stories.  Imagine if in a game of Tetris, all of the blocks that fell from the top were just 1 block pieces.  The game would be too easy; filling the board up efficiently with little waste would be a breeze.  But as the Tetris blocks get bigger - say they start coming out as 10 block pieces, well filling the board efficiently becomes challenging if not impossible.
+I thought that was just a myth you say?  Think about it this way - a sprint, or an iteration, is like a game of Tetris.  The Tetris board represents the limited time that a team will have, and the pieces can represent the user stories.  Imagine if in a game of Tetris, all of the blocks that fell from the top were just 1 block pieces.  The game would be too easy; filling the board up efficiently with little waste would be a breeze.  But as the Tetris blocks get bigger - say they start coming out as 10 block pieces, well filling the board efficiently becomes challenging if not impossible.
 
 It is the same with user stories.  Nice small stories that can be done in a day or two are great for the team to work with efficiently on, and plan for.  As the stories get larger though, and they start taking multiple days or even weeks, well this makes it almost impossible to plan for.  Certain people get stuck on the story, it becomes difficult to test, changes may start overlapping and impacting other stories, the list goes on.
 
@@ -148,6 +155,8 @@ As these large, coarse grained stories stories move closer to the top of the bac
 
 We would typically run a refinement session for an hour each sprint, so we had a nice backlog of "fine grained" stories for sprint planning.
 
+The product owner, and the team, may also need some coaching on how to write good stories that abide by the INVEST principles.  More to come on this later.
+
 ## Summary
 
-There are a number of different problems that product owners may have; this post has run through only a few of them.  It is a tough job!  But with the right level of support from the team, and from the agile coaches and scrum masters, we can have an effective, well functioning product owner on the team.
+There are a number of different problems that product owners may have; this post has run through only a few of them.  No one ever said the job is easy!  But with the right level of support from the team, the agile coaches and scrum masters, we can always try to move towards having a more effective, better functioning product owner on the team.
