@@ -86,7 +86,7 @@ The product owner in turn will have greater knowledge of how the team functions,
 
 The success of the product in itself might be a tough one to define.  It might be that the software is fit for a particular purpose, or that the number of user sales or sign ups are increased, or that customer satisfaction goes up.  Whatever the case, there will usually be one, or many customers/stakeholders, who can help to guide the product along the way.
 
-Because Scrum works with iterative releases, there should be many opportunities for the stakeholders (or customers, control groups, etc) to be able to see the product and to give feedback on how they think it is going.  For the best chance at "success", it is essential that the product owner takes advantage of such feedback and continually uses it reassess the direction that the product is going in.
+Because Scrum works with iterative releases, there should be many opportunities for the stakeholders (or customers, control groups, etc) to be able to see the product and to give feedback on how they think it is going.  For the best chance at "success", it is essential that the product owner takes advantage of such feedback and continually uses it to reassess the direction that the product is going in.
 
 ## Summary
 
