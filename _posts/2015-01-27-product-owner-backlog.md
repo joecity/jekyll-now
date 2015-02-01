@@ -26,8 +26,8 @@ Let's run through some common problems I have seen and some ideas on how we as a
 In this post I cover three common problems with the backlog that Bob the product owner may have.
 
 <figure>
-<img src="../images/posts/2015-01-27-help.jpg">
-<figcaption>Let's turn that product owner frown upside down</figcaption>
+<img src="../images/posts/2015-01-27-backlog.jpg">
+<figcaption>There had long been signs on the backlog that the product owner wasn't quite coping</figcaption>
 </figure>
 
 ## The backlog is too thin
