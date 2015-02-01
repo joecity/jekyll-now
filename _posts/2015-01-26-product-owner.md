@@ -93,3 +93,5 @@ Because Scrum works with iterative releases, there should be many opportunities 
 These are just some of the key functions that a "good" Product Owner will need to fulfil.  The product owner owns the backlog, is a domain expert, a visionary, the face of the team, the facilitator of key stakeholders, and an all round generally good person.  All of these roles are interrelated, however all of them centre around having strong collaboration and communication skills.
 
 The reality is though, as noted at the beginning, while it is a critical role in the team and for agile delivery, more often than not it's not such smooth sailing.  In a future post I will run through common barriers teams and organisations may face with the product owner role, and what we as agile coaches, scrum masters, and team members can do to help to mitigate them.
+
+<a href="../product-owner-backlog">Part 2 - Three challenges the product owner role may have with the backlog</a>
