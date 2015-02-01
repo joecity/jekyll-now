@@ -2,7 +2,7 @@
 layout: post
 title: Ever met a "good" Product Owner?  Part 2
 excerpt: "A look into 3 challenges the product owner role may have with the backlog, and how we can help mitigate them"
-modified: 2015-01-26
+modified: 2015-01-27
 tags: [agiletrack, agile, product owner, backlog]
 comments: true
 image:
