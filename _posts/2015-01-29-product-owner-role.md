@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Product Owner: Role play
-excerpt: "A look into 3 challenges the product owner may have with the role"
-modified: 2015-01-29
+title: Ever met a "good" Product Owner?  Part 2
+excerpt: "A look into 3 challenges the product owner role may have with the backlog, and how we can help mitigate them"
+modified: 2015-01-27
 tags: [agiletrack, agile, product owner, backlog]
 comments: true
 image:
-  feature: posts/2015-01-29-header.jpg
+  feature: posts/2015-01-27-header.jpg
 ---
 
 <section id="table-of-contents" class="toc">
