@@ -3,7 +3,7 @@ layout: post
 title: Product Owner: Role play
 excerpt: "A look into 3 challenges the product owner may have with the role"
 modified: 2015-01-29
-tags: [agiletrack, agile, productowner]
+tags: [agiletrack, agile, product owner, backlog]
 comments: true
 image:
   feature: posts/2015-01-29-header.jpg
