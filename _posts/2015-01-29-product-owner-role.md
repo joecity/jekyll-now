@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product Owner\: Role Play
+title: Product Owner - Role Play
 excerpt: "A look into 3 challenges the product owner role may have with role"
 modified: 2015-01-29
 tags: [agiletrack, agile, product owner, backlog]
