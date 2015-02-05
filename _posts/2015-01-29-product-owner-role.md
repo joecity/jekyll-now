@@ -42,9 +42,9 @@ The business may not trust Bob to make the right decisions, so managers and othe
 
 ### Fix it!
 
-It is important to educate the business on the role of the product owner.  One of the key benefits of agile development is being able to close the gap between the team and the customers.  A product owner should be fully empowered to be able to play that role, and not have other managers interfering with this process.
+It is important to educate the business on the role of the product owner.  One of the core goals of agile development is to close the gap between the team and the customers.  A product owner should be fully empowered to be able to play that role, and not have other managers interfere.
 
-For a product owner to be effective, they have to also be the ones who own the vision of the product.  The person who collaborates with the customers and stakeholders, who builds a vision from this interaction, and who keeps tabs on the intended market, will be the best person to make the final decision on what should go into the backlog.  The product owner needs to be trusted to fill this role.
+For a product owner to be effective, they have to also have a vision of the product.  The person who collaborates with the customers and stakeholders, who builds a vision from this interaction, will be the best person to make the final decision on what should go into the backlog.  The product owner needs to be trusted to fill this role.
 
 
 ## The Product Owner is hardly available
@@ -83,15 +83,15 @@ Perhaps the product owner maybe overly distracting the team during the sprint, c
 
 ### Symptoms
 
-This is an indicator that there is an unhealthy tension in the team between the product owner and the rest of the team.  Rather than feeling like they are all in the same boat, and that they are one team, it feels like the product owner is on one side, and the team on the other.  The team feels under pressure and the product owner acts like a demanding project manager or boss.
+This is an indicator that there is an unhealthy tension in the team between the product owner and the rest of the team.  Rather than feeling like they are all in the same boat, it feels like the product owner is on one side, and the team on the other.  The team feels under pressure and the product owner acts like a demanding boss.
 
-Maybe, the product owner *is* the boss.  Having a line manager as a product owner is not a great situation to be in; it is too easy to start putting an unhealthy pressure on the team.  When the team feel pressure, quality will drop.  A drop in quality will lead to mounting technical debt that will bring exponential pain later on.
+Maybe, the product owner *is* the boss.  Having a line manager as a product owner is not a great situation to be in; it is too easy to pull rank and start putting an unhealthy pressure on the team.  When the team feel pressure, quality drops.  Enter mounting technical debt that will bring exponential pain later on.
 
 ### Fix it!
 
-There is nothing wrong for the product owner to share with the team what they are going through, and what their hopes for delivery are.  This needs to be kept in check though; the balance between speed and quality is a fine line for a team to walk down.  The product owner needs to be made aware of the risks of pushing the team too hard.  This is particularly the case when the product owner is the boss.
+There is nothing wrong for the product owner to share with the team what they are going through, and what their hopes for delivery are.  This needs to be kept in check though; the balance between speed and quality is a fine line for a team to walk down.  The product owner needs to be made aware of the risks of unhealthy pressure on the team.  This is particularly the case when the product owner is the boss.
 
-If the product owner is being disruptive during a sprint, then it maybe something that the whole team may need to work on.  The product owner needs to attend the daily stand up.  The team need to ensure they give concise, informative updates on their progress towards the goal.  The team also need to make sure they have huddles and conversations with the product owner as questions come up, or features are ready to be demoed.  If the product owner needs to feel that they will be included when they need to be.
+If the product owner is being disruptive during a sprint, then it maybe something that the whole team may need to work on.  The product owner needs to attend the daily stand up.  The team need to ensure they give concise, informative updates on their progress towards the goal.  The team also need to make sure they have huddles and conversations with the product owner as questions come up.  The product owner needs to feel that they will be included when they need to be without having to disrupt themselves.
 
 Finally, the product owner will need to be educated on agile principles, and learn to trust that a self managing team will work more effectively without being micro managed.  The product owner needs to stick to their job of steering the direction of the product, and leave the delivery of the actual product to the team.
 
