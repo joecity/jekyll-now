@@ -23,13 +23,15 @@ image:
 
 In the <a href="../pair-programming">Everybody Hates Pair Programming</a> post we ran through some of the key benefits of pair programming, and now we want to try it.  Like everything, there are patterns to maximise success for pair programming.  Let's run through some now.
 
-### Rotate the Programmer Frequently
+Before we begin, I make the baseline assumption that when pair programming, one developer is the driver with the keyboard and mouse, and the other developer is observing as the copilot.
 
-You get the most benefit from pair programming when both the programmer and the co-pilot are engaged and focused.  As the co-pilot, it can be easy to drift off to never never land, or to check your phone, however.
+### Rotate the Driver Frequently
+
+You get the most benefit from pair programming when both the programmer and the co-pilot are engaged and focused.  As the co-pilot, it can be easy to drift off to never never land and end up playing Flappy Birds on your phone.
 
 To counteract this, the co-pilot will be most engaged when they feel that they are about to take over.  Ways of doing this include ping pong pairing where one person writes a test and another person writes the implementation, or a simple 20 minute egg timer.
 
-### Rotate Pairs Regularly
+### Rotate Pairs Frequently
 
 You get the most benefits from pair programming by working with a wide range of different people.  This also maximises the knowledge share.
 
@@ -55,6 +57,18 @@ True to any agile team, we should let the teams self manage and not force any ru
 They may not want to pair 100% of the time, as the required focus is exhausting.  They may not want to pair on very simple tasks; then again they may want to.
 
 Pair programming may need a slight kick start at the beginning, but it is ultimately a team decision.
+
+### Workstation set up
+
+Having a pair program friendly workstation can help a lot.  Have two monitors, two keyboards and two mice.  Two chairs would be great, and a flat desk that allows two developers to comfortably to sit there.
+
+### Experience levels don't matter
+
+Lots of people ask this; is it best for a senior to pair with a junior, or for both developers to be at the same level?
+
+In my experience, it is most productive when both developers are at a similar level.  This keeps both developers engaged and offers more opportunity for innovation and creativity.
+
+However - benefits from pairing will be experienced regardless of the experience levels of the pair.  An expert will mentor and train a junior, and a junior will challenge established ways of doing things of a senior.  So really - encourage everybody to pair with everybody regardless of the level.
 
 ## Summary
 

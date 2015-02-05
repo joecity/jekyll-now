@@ -45,9 +45,11 @@ There are a number of other spoken, or unspoken reasons that may include:
 * I want to listen to music
 * I don't like watching someone else program, I like being in control
 
-## Why we should still try it
+## Why you should still try it
 
-But the benefits of pair programming are being preached the world over.  Despite my own initial hate of pair programming I have experienced these first hand.  Don't take my word for it, you can even take a look at the <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/ESE%20WilliamsPairProgramming_V2.pdf" target="_blank">research paper from Laurie Williams and Alistair Cockburn</a>.
+But the benefits of pair programming are being preached the world over.  Despite my own initial hatred of pair programming I have experienced these benefits first hand.
+
+Don't take my word for it, you can even take a look at the <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/ESE%20WilliamsPairProgramming_V2.pdf" target="_blank">research paper from Laurie Williams and Alistair Cockburn</a>.
 
 ### Far Fewer Defects
 
