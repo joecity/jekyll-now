@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ever met a "good" Product Owner?  Part 2
+title: Product Owner - Backlog Pressure
 excerpt: "A look into 3 challenges the product owner role may have with the backlog, and how we can help mitigate them"
 modified: 2015-01-27
 tags: [agiletrack, agile, product owner, backlog]
@@ -19,11 +19,10 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-In the <a href="../product-owner">Ever met a good product owner</a> post, we ran through some of the responsibilities of what will help to make a "good" product owner.  The problem is, many organisations and teams may be struggling to have a product owner in place that can give the role the love it needs.
-
-Let's run through some common problems I have seen and some ideas on how we as agile coaches, scrum masters and team members can assist the product owner role.
+In the <a href="../product-owner">Ever met a good product owner</a> post, we ran through some of the responsibilities of what will help to make a "good" product owner.
 
 In this post I cover three common problems with the backlog that Bob the product owner may have.
+
 
 <figure>
 <img src="../images/posts/2015-01-27-backlog.jpg">
@@ -120,3 +119,5 @@ The product owner, and the team, may also need some coaching on how to write goo
 ## Summary
 
 There are a number of different problems that product owners may have with the backlog; this post has run through only a few of them.  No one ever said the job is easy!  But with a bit of training, and the right level of support from the team, the agile coaches and scrum masters, we can always try to move towards having a healthier backlog for the team.
+
+> <a href="../product-owner-role">Product Owner - Three common challenges with the role</a>
