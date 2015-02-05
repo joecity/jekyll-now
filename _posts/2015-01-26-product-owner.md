@@ -94,5 +94,5 @@ These are just some of the key functions that a "good" Product Owner will need t
 
 The reality is though, as noted at the beginning, while it is a critical role in the team and for agile delivery, more often than not it's not such smooth sailing.  In a future post I will run through common barriers teams and organisations may face with the product owner role, and what we as agile coaches, scrum masters, and team members can do to help to mitigate them.
 
-> <a href="../product-owner-backlog">Product Owner - Three common challenges with the backlog</a>
-> <a href="../product-owner-role">Product Owner - Three common challenges with the role</a>
+> <a href="../product-owner-backlog">Product Owner - 3 challenges with the backlog</a><br>
+> <a href="../product-owner-role">Product Owner - 3 challenges with the role</a>
