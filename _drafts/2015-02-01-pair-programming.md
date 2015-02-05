@@ -45,7 +45,7 @@ There are a number of other spoken, or unspoken reasons that may include:
 * I want to listen to music
 * I don't like watching someone else program, I like being in control
 
-## Why Pair Programming works
+## Why we should still try it
 
 But the benefits of pair programming are being preached the world over.  Despite my own initial hate of pair programming I have experienced these first hand.  Don't take my word for it, you can even take a look at the <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/ESE%20WilliamsPairProgramming_V2.pdf" target="_blank">research paper from Laurie Williams and Alistair Cockburn</a>.
 
@@ -99,54 +99,6 @@ It is far more likely that a solo developer will get distracted by checking emai
 
 This benefits the developers, reducing the chance for a blame driven development culture where people are named and shamed for making mistakes.  Sharing ownership of your code with another developer or 3 increases the feeling of a shared, team ownership of the code.  More team work, more better.
 
-## How to pair program effectively
-
-So we have established some of the key benefits to pair programming, and now we want to try it.  Like everything, there are patterns to maximise success for pair programming.  Let's run through some of these now.
-
-### Rotate the Programmer Frequently
-
-You get the most benefit from pair programming when both the programmer and the co-pilot are engaged and focused.  As the co-pilot, it can be easy to drift off to never never land, or to check your phone, however.
-
-To counteract this, the co-pilot will be most engaged when they feel that they are about to take over.  Ways of doing this include ping pong pairing where one person writes a test and another person writes the implementation, or a simple 20 minute egg timer.
-
-### Rotate Pairs Regularly
-
-You get the most benefits from pair programming by working with a wide range of different people.  This also maximises the knowledge share.
-
-We need to really encourage people to swap partners often though to get true knowledge share and a cross functional team.
-
-An extreme example, success has been reported with so called promiscuous pairing.  This is where the entire team pair programs, and all of the pairs must swap partners on a timer, say every 1.5 hours.  Interestingly, it is the most experienced developer that must move on.
-
-<figure>
-<img src="../images/posts/2015-02-02-promiscuous.jpg">
-<figcaption>By the time Cindy realised she had misunderstood "promiscuous pairing", it was too late</figcaption>
-</figure>
-
-### Works best with complex code
-
-Pairing when designing new, or complex code has a lot of benefits.  Sometimes though, as developers we will always have boring scaffolding code that we have to write.  Sometimes I would sit down for the day and see the next 500 lines of simple code that I had to write.
-
-Tasks like this can be monotonous when pairing, and may enjoy fewer benefits from it.
-
-### Don't force the issue
-
-True to any agile team, we should let the teams self manage and not force any rules on them.  Rather than force them to have to pair all the time, let the developers decide when they want to pair program.
-
-They may not want to pair 100% of the time, as the required focus is exhausting.  They may not want to pair on very simple tasks; then again they may want to.
-
-Pair programming may need a slight kick start at the beginning, but it is ultimately a team decision.
-
 ## Summary
 
-Pair programming has a large number of benefits.  No body likes it when they hear about it, or even after their first few sessions.
-
-In the true spirit of agile, try it for a few sprints or weeks.  Stick with it, try it, keep it fun.  Give promiscuous pairing a try.  And after the team has tried it, let them decide how they think they operate the most effectively.
-
-It is no guarantee, but from what I have seen, after most developers have tried pair programming, when it clicks they end up loving it and don't want to work any other way.
-
-
-
-
-
-
-
+Pair programming might be a hard sell to start with, but it has gotten popular because it has a large number of benefits.  Are you now interested to try it?  My next post will run through some key tips on how to get the most out of pair programming.
