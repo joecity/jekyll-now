@@ -56,19 +56,19 @@ True to any agile team, we should let the teams self manage and not force any ru
 
 They may not want to pair 100% of the time, as the required focus is exhausting.  They may not want to pair on very simple tasks; then again they may want to.
 
-Pair programming may need a slight kick start at the beginning, but it is ultimately a team decision.
+Pair programming may need a slight kick start at the beginning, but whether it sticks is ultimately a team decision.
 
 ### Workstation set up
 
-Having a pair program friendly workstation can help a lot.  Have two monitors, two keyboards and two mice.  Two chairs would be great, and a flat desk that allows two developers to comfortably to sit there.
+Having a pair programming friendly workstation can help a lot.  Have two monitors, two keyboards and two mice.  Two chairs would be great, and a flat desk that allows the developers to comfortably to sit together.
 
 ### Experience levels don't matter
 
-Lots of people ask this; is it best for a senior to pair with a junior, or for both developers to be at the same level?
+A common question, is it best for a senior to pair with a junior, or for both developers to be at the same level?
 
 In my experience, it is most productive when both developers are at a similar level.  This keeps both developers engaged and offers more opportunity for innovation and creativity.
 
-However - benefits from pairing will be experienced regardless of the experience levels of the pair.  An expert will mentor and train a junior, and a junior will challenge established ways of doing things of a senior.  So really - encourage everybody to pair with everybody regardless of the level.
+However - there will be benefits from pairing regardless of the experience levels of the pair.  An expert will mentor and train a junior, and a junior will challenge established ways of doing things of a senior.  So really - encourage everybody to pair with everybody regardless of level.
 
 ## Summary
 
