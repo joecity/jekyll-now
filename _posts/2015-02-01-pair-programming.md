@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everyone hates Pair Programming...
-excerpt: "Programming paints the picture of the super geek hunched over a keyboard in the corner"
+excerpt: "Two Developers, one computer.  How can that be justified?"
 modified: 2015-02-01
 tags: [agiletrack, agile, product owner]
 comments: true
