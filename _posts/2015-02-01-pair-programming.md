@@ -55,7 +55,7 @@ But the benefits of pair programming are being preached the world over.  Despite
 
 Code that is written by pair programming tends to have far less defects, from silly typo's through to more complex logic errors.  Programming is highly susceptible to human error, and having an extra set of eyes that check everything you do really helps.
 
-I have personally noticed the phenomenon where after pair programming, everything just seems to work.  And I cannot count the number of times the co-pilot has caught something that would have proved costly later on.
+I have personally noticed the phenomenon where after pair programming, everything just seems to work without a hitch.  And I cannot count the number of times the co-pilot has caught something that would have proved costly later on.
 
 We all know that defects can prove incredibly expensive the longer they live - so finding them immediately can help negate the on paper productivity loss of pairing.
 
