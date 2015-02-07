@@ -55,7 +55,7 @@ But the benefits of pair programming are being preached the world over.  Despite
 
 Code that is written by pair programming tends to have far less defects, from silly typo's through to more complex logic errors.  Programming is highly susceptible to human error, and having an extra set of eyes that check everything you do really helps.
 
-I have personally noticed phenomenon where after pair programming, everything just seems to work.  And I cannot count the number of times the co-pilot has caught something that would have proved costly later on.
+I have personally noticed the phenomenon where after pair programming, everything just seems to work.  And I cannot count the number of times the co-pilot has caught something that would have proved costly later on.
 
 We all know that defects can prove incredibly expensive the longer they live - so finding them immediately can help negate the on paper productivity loss of pairing.
 
@@ -65,26 +65,26 @@ Fun fact: All code is read far more than it is written and edited.  Another fun 
 
 When we write code, everything is really clear to us at that time, even though we may be making it unnecessarily complex.
 
-When pair programming though, the developer has to write and design code for another person to understand.  This subtle but powerful shift in mindset continually encourages the code to being easier to understand and more readable by other developers.  Readable, maintainable code pays dividends later on.
+When pair programming though, the developer has to write and design code for another person to understand right there and then.  This subtle but powerful mindset continually encourages the code to be easier to understand and more readable by other developers.  Readable, maintainable code pays dividends later on.
 
 ### Less technical debt
 
 No developer will admit to doing hacks or code that they aren't proud of; but it is a simple fact that often, when writing code, we are human and we may take dirty short cuts.  We may intend to fix them up later but then we get sent a YouTube video of a cat playing the piano.
 
-I can attest that the temptation to cut corners or skip writing tests when someone is watching over your shoulder is greatly reduced!  You both exert a healthy influence on each other to do everything well.
+I can attest that the temptation to cut corners or to skip some tests when someone is watching over your shoulder is greatly reduced!  You both exert a healthy influence on each other to do everything well.
 
-What is  'Technical Debt'?  It is the dreaded 'T' word that Developers always bring up and everyone else likes to turn a blind eye to.  The fact is, technical debt is a very real threat to your software.  It means that in the guts of your software, in the depths of the code, some of that code is not very nice, or it could be done much better.  It might mean you have missing regression tests, or some inefficient code, or just downright ugly, hard to understand code.  Let too much of this build up, and it can cripple the ability to make changes to your software.
+What is  'Technical Debt'?  It is the dreaded 'T' word that Developers always bring up and everyone else likes to turn a blind eye to.  The fact is, technical debt is a very real threat to your software.  It means that while your software works, underneath the surface in the depths of the code there are some problems that should be addressed.  It might mean you have missing regression tests, or some inefficient code, or just ugly code that is harder to read and update than it should be.  Let this build up too much, and it can cripple the ability to make changes to your software.
 {: .notice}
 
 ### Knowledge share goes through the roof
 
-I have never learnt as much as when I started pair programming.  Different developers have different experiences, knowledge, libraries, and techniques to solve things.  There will be a wide range of knowledge and experience of your code base as well.
+My rate of learning went through the roof when I started pair programming.  Different developers have different experiences, knowledge, libraries, and techniques to solve things.  There will be a wide range of knowledge and experience of your code base as well.
 
 There is no better way to share this knowledge around and dramatically increase the collective skill of your team than pair programming.
 
 ### No more key man dependency
 
-Ever had the experience where a developer called in sick, and so the story they were working on becomes completely blocked?  Or the only person that knows how a part of the system works is away?
+Ever had the experience where a developer called in sick, and so the story they were working on becomes blocked?  Or the only person that knows how a part of the system works is away?
 
 With pair programming, you have one, potentially many, backup developers to call on.
 
@@ -92,9 +92,9 @@ With pair programming, you have one, potentially many, backup developers to call
 
 The most productive teams are ones where everybody on the team can do a little bit of every thing.  This is not to say that we don't have our specialists; some people will always be better at front end, others at the database, etc.  However - the team will be at its most effective when everybody is capable of at least understanding every part of a story themselves.
 
-We learn best by doing, and what better way to get closer to a cross functional team than pair programming.  Have the QA's pair with the developers, the back end developer work on Javascript with the front end developer.
+We learn best by doing, and what better way to get closer to a cross functional team than pair programming.  Have the QA's pair with the developers, the back end developers work on Javascript with the front end developers.
 
-It might seem slow at first, however the combined learning will lift your team productivity in the long run.
+It might seem slow at first, however the combined learning and capability will lift your team productivity in the long run.
 
 ### Heightened productivity from maintained focus
 
