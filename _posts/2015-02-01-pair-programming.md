@@ -44,6 +44,9 @@ There are a number of other reasons, spoken out loud or not, that may include:
 * I like being able to work at my own pace, taking breaks when I need to
 * I want to listen to music
 * I don't like watching someone else program, I like being in control
+* I don't want someone else debating and questioning my code, I want to design and implement my own solutions
+* I know more than all the other developers
+* All the other developers know more than me
 * Someone else will just slow me down
 
 ## Why should we try it?
