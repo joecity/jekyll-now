@@ -90,7 +90,7 @@ Finally, before we begin pair programming, or programming in general, it is good
 
 ## Summary
 
-No body likes pair programming when they hear about it, or even after their first few sessions.
+Nobody likes pair programming when they hear about it, or even after their first few sessions.
 
 In the true spirit of agile, try it for a few sprints or weeks.  Stick with it, try it, keep it fun.  And after the team has given it a good go, let them decide how they think they operate the most effectively.
 
