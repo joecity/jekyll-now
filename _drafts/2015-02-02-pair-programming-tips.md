@@ -37,13 +37,13 @@ You get the most benefit from pair programming when both the programmer and the 
 
 To counteract this, the co-pilot will be most engaged when they feel that they are about to take over driving.  Ways of doing this include ping pong pairing where one person writes a test and the person writes the implementation, or just using a simple 20 minute egg timer.
 
-### Rotate Pairs Frequently
+### Rotate Partners Frequently
 
 You will learn the most from pair programming by working with a wide range of different people.  This also maximises the knowledge share and will help towards having a cross functional team.
 
 People will naturally gravitate to pair with who they are comfortable with, so swapping pairs may need a little encouragement.
 
-An extreme example, success has been reported with so called promiscuous pairing.  This is where the entire team pair programs, and all of the pairs must swap partners on a timer, say every 1.5 hours.  In an effort to spread knowledge, it is the most experienced developer that must move on.
+An extreme example, success has been reported with so called promiscuous pairing.  This is where the entire team pair programs, and all of the pairs must swap partners on a timer, say every 1.5 hours.  In an effort to spread knowledge, it is the most experienced developer that must move on.  Results may vary, but this could be a useful exercise to try, and to get the team used to pairing with different partners.
 
 <figure>
 <img src="../images/posts/2015-02-02-promiscuous.jpg">
@@ -52,7 +52,7 @@ An extreme example, success has been reported with so called promiscuous pairing
 
 ### Works best with complex code
 
-Pairing when designing new, or complex code gets the most benefits from collaborative intelligence.  As developers though, there will always be boring scaffolding code that we have to write.  I can recall sitting down for the day and being able to see the next 500 lines of simple code that I had to write.
+Pairing when designing new, or complex code gets the most benefits from collaborative intelligence.  As developers though, there will always be boring scaffolding code that we have to write.  We have all had that feeling where we sit down for the day and feel like we can see in our heads the next 500 lines of simple code that we have to write.
 
 Tasks like this can be monotonous when pairing, and may reap fewer benefits from it.
 
@@ -66,7 +66,7 @@ Pair programming may need a slight kick start at the beginning, but whether it s
 
 ### Workstation set up
 
-Having a pair programming friendly workstation can help a lot.  Have two monitors, two keyboards and two mice.  Two mouses?  Two chairs would be great, and a flat desk that allows the developers to comfortably sit together.  Remember when you are the driver - you own the keyboard, so have it in front of you rather than twisting and contorting uncomfortably.
+Easy to overlook, but having a pair programming friendly workstation can help a lot.  Have two monitors, two keyboards and two mice.  Two mouses?  Two chairs would be great, and a flat desk that allows the developers to comfortably sit together.  Remember when you are the driver - you own the keyboard, so have it in front of you rather than twisting and contorting uncomfortably.
 
 ### Experience levels don't matter
 
@@ -74,24 +74,24 @@ A common question, is it best for a senior to pair with a junior, or for both de
 
 I have found it is most productive when both developers are at a similar level.  This keeps both developers engaged and offers more opportunity for innovation and creativity.
 
-That said, there will be benefits from pairing regardless of the experience levels of the pair.  A senior will impart knowledge with a junior, and a junior will challenge established ways of doing things of a senior.  The key is still to share the driver and copilot responsibilities evenly, even in this scenario.
+That said, there will be benefits from pairing regardless of the experience levels of the pair.  A senior will impart knowledge with a junior, and a junior will challenge established ways of doing things of a senior.  The key is always to share the driver and copilot responsibilities evenly, even in this scenario.
 
 ### Scrum values: Respect
 
-Having two intelligent, technical developers working side by side can introduce challenges.  Differences in design and opinions will come up with great reasons on both sides.  Without trying to sound patronising or to spell out common sense, remember that when this happens to do so with respect.  If you want to criticise some ones code, or question their decisions, do so in a way that you would like someone to do that to you.  Don't open with "I don't like that..." or "What are you doing?" or "Your code is so bad, Adobe could optimise it", rather try leading with less confrontational phrases like "Do you think we should..." or "What about if we...".
+Having two intelligent, technical developers working side by side can introduce challenges.  Differences in design and opinions will come up with great reasons on both sides.  Without trying to sound patronising or to spell out common sense, remember that when this happens to do so with respect.  If you want to criticise some ones code or raise a new idea, do so in a way that you would like someone to do that to you.  Don't open with "I don't like that..." or "What are you doing?" or "Your code is so bad, Adobe could optimise it", rather try leading with less confrontational phrases like "Do you think we should..." or "What about if we...".
 
-When pairing, try to be open to try the other persons suggestion.  Think about it this way, you will learn more if you regularly try other peoples suggestions and ideas.  Sometimes though both people may feel very strongly their own solutions.  In this situation use common sense; if it is a small decision, just pick one.  Flip a coin.
+When pairing, try to be open to try the other persons suggestions.  Think about it this way, you will learn more if you regularly try things you didn't think of.  Sometimes though both people may feel very strongly about their own solutions.  If the matter is small, just pick one.  Flip a coin.
 
-However for more critical decisions, it may call for a time boxed team huddle.  Call the team together, with the two proposal's and their reasons on either side.  Then use simple dot voting where the team picks a solution.  The key here is not to get too hung up in the debate; we are agile and empirical after all.  The team can always just pick what consensus thinks is the simplest solution, and inspect and adapt later.
+However for more critical decisions, it may call for a time boxed team huddle.  Call the team together, with the two proposal's and their reasons on either side.  Then use simple dot voting where the team picks a solution.  The key here is not to get too hung up in debate; we are agile and empirical after all.  The team can always just pick what consensus thinks is the simplest solution, and inspect and adapt later.
 
 ### Try and standardise tools and conventions
 
-Finally, before we begin pair programming, or programming in general, it is good to try and get some coding standards in place.  Having a simple team standard for naming conventions, camel casing, etc is a good idea for any development team.  If you can standardise tooling as well, great, but its not the end of the world if you have to spend some time switching IDE's and settings when swapping.
+Finally, before we begin pair programming, or programming in general, it is good to try and get some coding standards in place.  Having a simple team standard for naming conventions, camel casing, etc is wise for any development team.  If you can standardise tooling as well, great, but its not the end of the world if you have to spend some time switching IDE's and settings when swapping around.
 
 ## Summary
 
 No body likes pair programming when they hear about it, or even after their first few sessions.
 
-In the true spirit of agile, try it for a few sprints or weeks.  Stick with it, try it, keep it fun.  Give promiscuous pairing a try.  And after the team has given it a good go, let them decide how they think they operate the most effectively.
+In the true spirit of agile, try it for a few sprints or weeks.  Stick with it, try it, keep it fun.  And after the team has given it a good go, let them decide how they think they operate the most effectively.
 
 It is no guarantee, but from what I have seen, after most developers have tried pair programming, when it really clicks and they experience the full benefits first hand they end up loving it and don't want to work any other way.
