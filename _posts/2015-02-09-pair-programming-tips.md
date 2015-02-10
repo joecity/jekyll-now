@@ -43,7 +43,7 @@ You will learn the most from pair programming by working with a wide range of di
 
 People will naturally gravitate to pair with who they are comfortable with, so swapping pairs may need a little encouragement.
 
-An extreme example, success has been reported with so called promiscuous pairing.  This is where the entire team pair programs, and all of the pairs must swap partners on a timer, say every 1.5 hours.  In an effort to spread knowledge, it is the most experienced developer that must move on.  Results may vary, but this could be a useful exercise to try, and to get the team used to pairing with different partners.
+An extreme example, success has been reported with so called promiscuous pairing.  This is where the entire team pair programs, and all of the pairs must swap partners on a timer, say every 1.5 hours.  In an effort to spread knowledge, it is the most experienced developer that must move on.  Results may vary, but this could be a useful exercise to try, and to get the team used to pairing with partners outside of their comfort zone.
 
 <figure>
 <img src="../images/posts/2015-02-09-promiscuous.jpg">

@@ -117,7 +117,9 @@ The sum of the pair is greater than the sum of the parts.  This is particularly 
 
 Pair programming might be a hard sell to start with, but there is a reason that it is popular.  It brings a huge number of benefits.
 
-Are you now interested to try it?  My next post will run through some key tips on how to get the most out of pair programming.
+Are you now interested to try it?  My next post will run through some key tips on <a href="../pair-programming-tips">how to get the most out of pair programming</a>.
 
 If you want further reading on the subject, you can take a look at the <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/ESE%20WilliamsPairProgramming_V2.pdf" target="_blank">research paper from Laurie Williams and Alistair Cockburn</a>.
 {: .notice}
+
+> <a href="../pair-programming-tips">Get the Most out of Pair Programming</a>
