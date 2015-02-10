@@ -3,7 +3,7 @@ layout: post
 title: Reasons to Hate or Love Pair Programming
 excerpt: "Two Developers, one computer.  How can that be justified?"
 modified: 2015-02-01
-tags: [agiletrack, agile, product owner]
+tags: [techtrack, pairprogramming, xp]
 comments: true
 image:
   feature: posts/2015-02-01-header.jpg

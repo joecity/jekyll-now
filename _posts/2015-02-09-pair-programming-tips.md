@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Pair Programming Tips
-excerpt: "How to get the most value from pair programming"
+title: Get the most out of Pair Programming
+excerpt: "Tips and ideas to get the most value out of pair programming"
 modified: 2015-02-09
-tags: [agiletrack, agile, product owner]
+tags: [techtrack, pairprogramming, xp]
 comments: true
 image:
   feature: posts/2015-02-09-header.jpg
