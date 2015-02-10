@@ -2,11 +2,11 @@
 layout: post
 title: Pair Programming Tips
 excerpt: "How to get the most value from pair programming"
-modified: 2015-02-02
+modified: 2015-02-09
 tags: [agiletrack, agile, product owner]
 comments: true
 image:
-  feature: posts/2015-02-02-header.jpg
+  feature: posts/2015-02-09-header.jpg
 ---
 
 <section id="table-of-contents" class="toc">
@@ -25,7 +25,7 @@ In the <a href="../pair-programming">Reasons to Hate or Love Pair Programming</a
 
 ### One driver, one co-pilot
 
-Let's start with the basics.  In my experience, pair programming is at its most effective when one developer is the driver with the keyboard and mouse, and the other developer is observing as the copilot.
+In my experience, pair programming is at its most effective when one developer is the driver with the keyboard and mouse, and the other developer is observing as the copilot.
 
 As the driver, you have the obvious job of writing the code.  At first you will feel self concious and slow - but this feeling will go.  Try to talk out loud what your thought processes are so the copilot can follow.  The aim is to keep an open channel of communication and collaboration as you code.
 
@@ -46,7 +46,7 @@ People will naturally gravitate to pair with who they are comfortable with, so s
 An extreme example, success has been reported with so called promiscuous pairing.  This is where the entire team pair programs, and all of the pairs must swap partners on a timer, say every 1.5 hours.  In an effort to spread knowledge, it is the most experienced developer that must move on.  Results may vary, but this could be a useful exercise to try, and to get the team used to pairing with different partners.
 
 <figure>
-<img src="../images/posts/2015-02-02-promiscuous.jpg">
+<img src="../images/posts/2015-02-09-promiscuous.jpg">
 <figcaption>By the time the team realised they had totally misunderstood "promiscuous pairing", it was too late</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Having two intelligent, technical developers working side by side can introduce 
 
 When pairing, try to be open to try the other persons suggestions.  Think about it this way, you will learn more if you regularly try things you didn't think of.  Sometimes though both people may feel very strongly about their own solutions.  If the matter is small, just pick one.  Flip a coin.
 
-However for more critical decisions, it may call for a time boxed team huddle.  Call the team together, with the two proposal's and their reasons on either side.  Then use simple dot voting where the team picks a solution.  The key here is not to get too hung up in debate; we are agile and empirical after all.  The team can always just pick what consensus thinks is the simplest solution, and inspect and adapt later.
+For more critical decisions, it may call for a time boxed team huddle.  Call the team together, with the two proposal's and their reasons on either side.  Then use simple dot voting where the team picks a solution.  The key here is not to get too hung up in debate; we are agile and empirical after all.  The team can always just pick what consensus thinks is the simplest solution, and inspect and adapt later.
 
 ### Try and standardise tools and conventions
 
