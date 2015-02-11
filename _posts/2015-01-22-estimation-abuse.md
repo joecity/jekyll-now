@@ -33,7 +33,7 @@ Teams may use any measure to indicate story sizes; T-Shirt sizes, story points, 
 
 ## Story Points get abused?
 
-Oh yes they can and they do.  Story points can go from a seemingly inconsequential, harmless exercise to a dangerous black hole that threatens the sanity of any team.  Let me give some examples of estimate abuse that I know has happened in the real world.
+Oh yes they can and they do.  Story points can go from a seemingly inconsequential, harmless exercise to a dangerous black hole that threatens the sanity of any team.  Seen the below happen? I have, in the real world too.
 
 * Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?". *Back to big design up front*
 * A Dollar per Point formula has been made to calculate cost per story.  "A point roughly takes this much time, time = money, WHAM".  *Those made up numbers are now used in a complicated budget?*
@@ -44,7 +44,7 @@ Oh yes they can and they do.  Story points can go from a seemingly inconsequenti
 * Teams are told they have no choice, they have to estimate all stories using points. *the erosion of the self managing team*
 * The backlog has some kind of "Point Lockdown", where nobody can add any more story points to the backlog as there is no more budget for them. *Back to big design up front*
 
-Hopefully you can see the problems with these scenarios above.  Most of them come from a misuse of the estimations.  Interestingly, many of the problems listed sound like a subtle return to the Waterfall ways, where project managers micro manage and scope is planned and set in stone up front!
+Hopefully you can see the problems with these scenarios above. Interestingly, many of the problems listed sound like a subtle return to the Waterfall ways, where project managers micro manage and scope is planned and set in stone up front!
 
 The simple story estimation can start with good intentions, but can be like a sneaky back door that allows the dirty old habits of Software Development in the 90's creep back in.
 
@@ -55,28 +55,29 @@ The simple story estimation can start with good intentions, but can be like a sn
 
 ## The whole point of Story Points
 
-Most of these problems are born out of a complete misuse of Story estimations.  So what are estimations supposed to give us?
+Most of these problems are born out of a complete misuse of Story estimations.  So what are the benefits of estimations and velocity?
 
 ### 1.  Help the Product Owner prioritise
 
-The Product Owner is the one who is ultimately in charge of the backlog of User Stories, and prioritising them for the team.  Knowing about the size of a User Story will help the Product Owner with this task; the smaller, yet higher value User Stories should rise to the top.  Everyone wants a Ferarri - until they see the price tag.  Then they settle for Grandma's old moped instead.
+Knowing about the size of a User Story will help the Product Owner prioritise, putting the smaller, higher value User Stories at the top.  Everyone wants a Ferarri - until they see the price tag.  Then they settle for Grandma's old moped instead.
 
 ### 2.  Help the team to Inspect and Adapt...
 
 #### ...on a story
 
-When teams add an estimation to a story, they have to think about it a bit more.  Stories that are too large and need to be broken down may be identified here.  Also if a team is trying to plan how many stories they forecast they can do, points can help them determine this based on what they have achieved in the past.
+When teams add an estimation to a story, they have to think about it a bit more.  Stories that are too large and need to be broken down may be identified here.  Having estimated stories can also help a team forecast how many stories they think they can achieve in a sprint.
 
 #### ...on a sprint, or iteration
-After a while, a team can calculate a velocity.  This is how many points the team can achieve in a certain period of time, on average.  This can help a team become more predictable; they can have some level of confidence to guess what they are capable of outputting.
-It can also be useful to see if a team velocity starts to decrease; the team may want to inspect and adapt to try and address a drop in velocity.  Or they can use to to assess whether they have been successful at increasing their velocity.
+After a while, a team can calculate a velocity, or how many points the team can achieve in a certain period of time.  This can be useful for a team to see if their velocity starts to decrease; they may want to inspect and adapt to try and increase their velocity again.
 
-While teams may inspect and adapt on their velocity, allowing those outside the team to do the same may lead to dire consequences.
+While teams may inspect and adapt on their velocity, allowing those outside the team to analyse it may lead to dire consequences.
 
-## Caution: Using estimations as a measure of Productivity
-Measuring developer productivity is always tricky, and velocity seems like a great measure to use; after all, the numbers are already sitting there begging to be put into an Excel chart.  In practise though, it does not work out too well.
+## Caution: Don't use estimates and velocity as a measure of productivity
+Measuring developer productivity has always been tricky, and velocity seems like a great measure to use; after all, the numbers are already sitting there begging to be put into an Excel chart.  In practise though, it does not work out too well.
 
-Think about it; we are asking teams to quickly guess a number, and then use that number to measure their performance later on.  This will inevitably lead to a natural point inflation.  You may then feel a need to implement measures to help counteract this inflation, such as a tech lead or manager vetting all of the estimated points.  Also, putting too much pressure on the point estimations may lead to excessively detailed, long drawn out planning sessions.
+Think about it; we are asking teams to quickly guess a number, and then use that number to measure their performance later on.  This will inevitably lead to a natural point inflation.  You may then feel a need to implement measures to help counteract this inflation, such as a tech lead or manager vetting all of the estimated points.
+
+Also, putting too much pressure on the point estimations may lead to excessively detailed, long drawn out planning sessions.
 
 All of a sudden the estimation process has gone from a quick activity that can help the team, to a political, team morale destroying exercise.
 
@@ -88,7 +89,7 @@ You may notice from the list of benefits of estimations, that all of the benefit
 
 Treat the estimates like code; code is usually kept internal to the team as the business doesn't understand it, treat estimates the same way.  When the team wants to communicate what they have completed or what they forecast next, just don't use the (made-up by the team) story point estimations.  List the business features, or goals, or actionable metrics - anything other than points.
 
-Disclaimer: There are no golden rules.  Perhaps you work in a great forward thinking environment where you can practise unsafe estimates, share the estimates everywhere and you don't get any problems coming back.  You must be in agile heaven :)
+Disclaimer: There are no golden rules.  Perhaps you work in a great forward thinking environment where you can share the estimates everywhere and you don't get any problems coming back.  You must be in agile heaven :)
 {: .notice}
 
 ## Summary
