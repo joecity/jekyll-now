@@ -36,12 +36,11 @@ Teams may use any measure to indicate story sizes; T-Shirt sizes, story points, 
 Oh yes they can and they do.  Story points can go from a seemingly inconsequential, harmless exercise to a dangerous black hole that threatens the sanity of any team.  Let me give some examples of estimate abuse that I know has happened in the real world.
 
 * Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?". *Back to big design up front*
-* Managers who ask the team to estimate 6+ months worth of stories.  "Can you estimate these 237 stories so we can calculate when the project will finish?". *Back to big design up front*
-* A Dollar per Point formula has been made to calculate cost per story.  "A point roughly takes this much time, time = money, WHAM".  *Those numbers we slapped on just became part of a complicated budget*
-* Teams start being compared based on how many points they complete. *points to measure productivity*
+* A Dollar per Point formula has been made to calculate cost per story.  "A point roughly takes this much time, time = money, WHAM".  *Those made up numbers are now used in a complicated budget?*
+* Teams start being compared based on how many points they complete. *points are specific per team!*
 * The bonus salary for the team was based on how many points the team could achieve. *points to measure productivity*
 * Stakeholders start making demands on how many points a team must complete. *points became the focus over business features*
-* Managers start micro managing and getting involved with estimating stories. *no one likes a micro manager*
+* Managers start micro managing and getting involved with estimating stories. *no one likes micro managing*
 * Teams are told they have no choice, they have to estimate all stories using points. *the erosion of the self managing team*
 * The backlog has some kind of "Point Lockdown", where nobody can add any more story points to the backlog as there is no more budget for them. *Back to big design up front*
 
@@ -58,11 +57,11 @@ The simple story estimation can start with good intentions, but can be like a sn
 
 Most of these problems are born out of a complete misuse of Story estimations.  So what are estimations supposed to give us?
 
-### Help the Product Owner prioritise
+### 1.  Help the Product Owner prioritise
 
 The Product Owner is the one who is ultimately in charge of the backlog of User Stories, and prioritising them for the team.  Knowing about the size of a User Story will help the Product Owner with this task; the smaller, yet higher value User Stories should rise to the top.  Everyone wants a Ferarri - until they see the price tag.  Then they settle for Grandma's old moped instead.
 
-### Help the team to Inspect and Adapt...
+### 2.  Help the team to Inspect and Adapt...
 
 #### ...on a story
 
@@ -81,7 +80,7 @@ Think about it; we are asking teams to quickly guess a number, and then use that
 
 All of a sudden the estimation process has gone from a quick activity that can help the team, to a political, team morale destroying exercise.
 
-## How can we practise safe estimates?
+## How can we avoid estimate abuse?
 
 You may notice from the list of benefits of estimations, that all of the benefits are for the team.  Once these harmless little numbers leave the team though and get into manager / stakeholder hands, the benefits can fall drastically and the potential problems can go up.  This has led me to one rule I try to apply:
 
@@ -94,6 +93,6 @@ Disclaimer: There are no golden rules.  Perhaps you work in a great forward thin
 
 ## Summary
 
-Estimates and velocity should be tools for the team only; they help the product owner prioritise the backlog, and they can help the team to inspect both the the user stories and how they are working as a team.  Any other use of these numbers has very limited value and potentially harmful side effects.
+Estimates and velocity should be tools for the team only; they help the product owner prioritise the backlog, and they can help the team to inspect on the user stories and how they are working as a team.  Any other use of these numbers has very limited value and potentially harmful side effects.
 
 A lot of time and energy can go into the estimate debate.  Do we estimate, do we not, do we use tasks and hours, do we use points, t-shirt sizes or Chuck Norris kick heights?  If we keep points in their rightful place - as a tool to benefit the team only, then the debate should not be so strong and the burden not so heavy.  Let the team decide what to do, and in the true spirit of empiricism, try each method.  Try points, try t-shirt sizes, try #noestimates... and let the team decide what works best for them.
