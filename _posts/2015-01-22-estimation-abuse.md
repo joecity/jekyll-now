@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Estimation Abuse
-excerpt: "It is wide spread and everywhere.  Break the cycle!"
+title: Estimates and velocity can be useful; but don't abuse them!
+excerpt: "Abuse of estimates is wide spread and everywhere.  Break the cycle!"
 modified: 2015-01-22
-tags: [agiletrack, agile, estimation, storypoints]
+tags: [estimation, story points, velocity, agile, agiletrack]
 comments: true
 image:
   feature: posts/2015-01-22-header.jpg
