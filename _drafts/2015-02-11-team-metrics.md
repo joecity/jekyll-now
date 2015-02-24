@@ -39,7 +39,7 @@ Metrics are a sharp tool and need to be closely inspected.  Most importantly the
 
 <figure>
 <img src="../images/posts/2015-02-24-kpis.jpg">
-<figcaption>Whatever the measure, KPIs and metrics need to come from a good, positive place with a view to help</figcaption>
+<figcaption>Although well intentioned, newly married Jimmy did not yet know the world of pain his love of metrics were about to take him to</figcaption>
 </figure>
 
 ## Beware: using estimates or velocity to measure productivity
@@ -69,7 +69,7 @@ We want to encourage that uber developer not to put his headphones on and furiou
 
 If you must use metrics, or want to try and work on some of the goals above, these are some idea's that I have tried to varying levels of success.
 
-Note that in the best case scenario, that mature self managing teams should decide their team metrics themselves; I like to call them team goals.  Sometimes, they may need some ideas to help get the ball rolling; the important thing is to have buy in from the team.
+Note that in the best case scenario, that mature self managing teams should be able to decide their team metrics themselves; I like to call them team goals.  Sometimes, they may need some ideas to help get the ball rolling; the important thing is to have buy in from the team.
 
 If you are in a company that must have individual performance reviews (sigh), you could also use these team goals to access how much each individual has contributed towards them.
 
@@ -91,31 +91,34 @@ The team may want to introduce pair programming but struggle to remember to do i
 
 Swarming is a very powerful technique where multiple people can "swarm" onto a story to get it done.  Perhaps multiple developers worked on it at once, or had huddles on major tech questions, or multiple people helped to test it.
 
-It might not be reasonable to have the entire team work on every story (though this can be an interesting team exercise to try), however we might want to improve collaboration if we currently have just one person working on a story at a time.
+It might not be reasonable to have the entire team work on every story (though this can be an interesting team exercise to try), however a light metric here might help encourage collaboration on stories.
 
 ### How many times did someone on the team work outside of their skill of expertise?
 
 Cross functional, or "T shaped" teams, are the most productive and predictable teams.  Yes people will always have their primary skill set - but it helps if everyone has a vertical skill set all the way though the product; "T shaped" skills.
 
-Why?  Cross functional teams can be much more flexible; if the board is full of front end stories, or QA stories, everyone on the team can swarm on those stories rather than having a resource bottleneck.  Also when working on stories, it is beneficial if everyone has knowledge of the full vertical stack - they can better align their work, and they don't have to throw anything over the fence or wait for the back end dev to become available.
+Why T shaped skills?  Cross functional teams can be much more flexible; if the board is full of front end stories, or QA stories, everyone on the team can swarm on those stories rather than having a resource bottleneck.  Also when working on stories, it is beneficial if everyone has knowledge of the full vertical stack - they can better align their work, and they don't have to throw anything over the fence or wait for the back end dev to become available.
+{: .notice}
 
 To get to cross functional teams is very difficult though.  It puts people outside their comfort zones and can really slow down output in the short run.  To encourage this behaviour we may want a metric to show whether we are making progress in becoming more cross functional.
 
 ### How many new defects have we created - or recreated?
 
-It is likely the team will already be trying their best to minimise defects.  Sometimes however, the team may be pushing for speed of delivery over things like regression tests, or cleaning up their technical debt.  Too much of this results in lower agility in the long run, so we want to make sure we stay focused on following good XP practices and having good clean code.
+It is likely the team will already be trying their best to minimise defects.  Sometimes however, the team may be pushing for speed of delivery over things like regression tests, or cleaning up their technical debt.  Too much of this results in much lower agility in the long run, so we want to make sure we stay focused on following good XP practices and having good clean code.
 
 Ideally automated tests should limit how many new defects we introduce.  They should also stop defects that we have fixed from reappearing.  If new defects keep coming up, or past defects keep coming back, we may want to try and make sure we are investing enough time in automated tests and to improve quality in the long run.
 
 ### How often are we releasing?
 
-Releasing often is a great way to stay agile; it means the cost of releasing is low and efficient, and means that code is constantly being integrated.  It also means assumptions and ideas can constantly be validated in front of customers.  I went to a talk by lastminute.com, and they gave an example where they could validate a simple idea of presenting the cheaper, high value hotels to people who were searching for a place to stay for that very night.  Their ability to release to production quickly and easily meant they could release this experiment in a few days, and they saw an increase in sales of 419%.
+Releasing often is a great way to stay agile; it means the cost of releasing is low and efficient, and means that code is constantly being integrated.
+
+It also means assumptions and ideas can constantly be validated in front of customers.  I went to a talk by lastminute.com, and they gave an example where they could validate a simple idea of presenting the cheaper, value for money hotels to people who were searching for a room for that very same night.  Their ability to release to production quickly and easily meant they could release a quick experiment in a few days, and they saw an increase in sales of 419%.
 
 A metric that measures the frequency of releases might help to bring team focus towards tools and practices that can help enable success stories like this, like learning script automation or using deployment tools like Octopus Deploy.
 
 ### Team Morale
 
-<a href="http://www.fastcoexist.com/3028160/happy-workers-are-more-productive-science-proves-it" target="_blank">Happy people are (12% more) productive people</a>; above all, we want to ensure that the team remains happy and productive.  The way to measuring this is another topic in itself.  You can leverage one of the tools like the <a href="https://www.happinessmetric.com/" target="_blank">happiness metric</a>, or ask pertinent questions in the retrospective, or even just have a small paper form team members can fill in and put in a box.
+<a href="http://www.fastcoexist.com/3028160/happy-workers-are-more-productive-science-proves-it" target="_blank">Happy people are (12%) more productive people</a>.  Above all, we want to ensure that the *team morale* remains happy and productive.  The way to measuring this is another topic in itself.  You can leverage one of the tools like the <a href="https://www.happinessmetric.com/" target="_blank">happiness metric</a>, or ask pertinent questions in the retrospective, or even just have a small paper form team members can fill in and put in a box.
 
 ## Summary
 
