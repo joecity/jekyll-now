@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "JoeAgile, A blog on all things that make Software Development better"
+tags: [agile, blog, software, development, xp]
 image:
   feature: sample-image-1.jpg  
 ---
