@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Metrics in an Agile team?
+title: Metrics and KPIs in an Agile team?
 excerpt: "Lines of code per developer, function points... metrics have never really worked out that well for Software Development"
 modified: 2015-02-24
-tags: [techtrack, team, metrics]
+tags: [techtrack, team, metrics, KPI]
 comments: true
 image:
   feature: posts/2015-02-24-header.jpg
@@ -19,13 +19,11 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-An interesting question that often gets asked is "what metrics should we use to measure the performance and progress of a team"?
+An interesting question that often gets asked is "what metrics and KPIs should we use to measure the performance and progress of a team"?
 
 I am not talking about measuring the product.  Innovation accounting, actionable metrics, outcomes, impacts, whatever you may be using, are ultimately the most important measure and motivator for a team.  This is for another post.
 
 I am talking about a step earlier than that, measuring how the team is performing and working together.  Measuring performance of developers has always been a difficult task, and it doesn't get any easier with the modern day collaborative, self organising, cross functional agile team.
-
-So what things should be keep in mind?
 
 ## Beware: the Heisenburg Effect
 
@@ -39,7 +37,7 @@ Metrics are a sharp tool and need to be closely inspected.  Most importantly the
 
 <figure>
 <img src="../images/posts/2015-02-24-kpis.jpg">
-<figcaption>Although well intentioned, newly married Jimmy did not yet know the world of pain his love of metrics were about to take him to</figcaption>
+<figcaption>Although well intentioned, newly married Jimmy did not yet know the world of pain his love of metrics were about to take him to to</figcaption>
 </figure>
 
 ## Beware: using estimates or velocity to measure productivity
@@ -75,17 +73,17 @@ If you are in a company that must have individual performance reviews (sigh), yo
 
 ### What was the average time from when a story was picked up to when it was done?
 
-Story cycle time.  As an agile team, our aim should be to get the stories that are in progress to done as quickly as possible.  It is better to have 9 stories done, than 10 stories that are 90% done.
+Story cycle time.  As an agile team, our aim should be to get the stories that are in progress to the definition of done as quickly as possible.  It is better to have 9 stories done, than 10 stories that are 90% done.
 
 This means our stories should be nice and small.  It also means when a team member is freed up, before they pick up a new story they should first check - can I help, and swarm on any stories in progress to get them over the line?
 
-A fun twist on this metric is to give your stories a mini life span.  When a story is picked up, put on a sticker of a baby; it's just been born.  As the story stays on the board it can grow to a child, then an adult, then an elder, then a grave stone.  The goal might be to minimise the number of "deaths"!
+A fun twist on this metric is to give your stories a mini life span.  When a story is picked up, put on a sticker of a baby; it's just been born.  As the story stays on the board it can grow to a child, then an adult, then an elder, then a grave stone.  Morbid... But the goal might be to minimise the number of "deaths"!
 
 ### How many stories were pair programmed?
 
 Pair Programming is one technique that brings many benefits as outlined in my past post the <a href="../pair-programming">reasons to hate or love pair programming</a>.
 
-The team may want to introduce pair programming but struggle to remember to do it.  Metrics like how many stories were pair programmed, how many different pair programming partners were there, etc. might help keep the goal in mind.
+The team may want to introduce pair programming but struggle to remember to do it.  Metrics like how many stories were pair programmed, how many different pair programming partners there were, etc. might help keep the goal in mind.
 
 ### The average number of people that worked on each story?
 
@@ -112,7 +110,7 @@ Ideally automated tests should limit how many new defects we introduce.  They sh
 
 Releasing often is a great way to stay agile; it means the cost of releasing is low and efficient, and means that code is constantly being integrated.
 
-It also means assumptions and ideas can constantly be validated in front of customers.  I went to a talk by lastminute.com, and they gave an example where they could validate a simple idea of presenting the cheaper, value for money hotels to people who were searching for a room for that very same night.  Their ability to release to production quickly and easily meant they could release a quick experiment in a few days, and they saw an increase in sales of 419%.
+It also means assumptions and ideas can quickly be validated in front of customers.  I went to a talk by lastminute.com, and they gave an example where they could validate a simple idea of presenting the cheaper, value for money hotels to people who were searching for a room for that very same night.  Their ability to release to production quickly and easily meant they could conduct a quick experiment in a few days, which saw an increase in sales of 419%.
 
 A metric that measures the frequency of releases might help to bring team focus towards tools and practices that can help enable success stories like this, like learning script automation or using deployment tools like Octopus Deploy.
 
@@ -122,4 +120,4 @@ A metric that measures the frequency of releases might help to bring team focus 
 
 ## Summary
 
-These are just some ideas on metrics that we might consider using for our team.  It is by no means exhaustive or bad-side-effect-proof, and your team may likely think of many more team goals they may want to try.  It is important to let the team buy in with these, rather than push goals on to them.  And remember, metrics need to come from a place for positive change; inspect and adapt as often as needed!
+These are just some ideas on metrics that we might consider using for our team.  It is by no means exhaustive or bad-side-effect-proof, and your team may likely think of many more team goals they may want to try.  It is important to let the team buy in with these, rather than push goals on to them.  Keep metrics driven from a place for positive change, and inspect and adapt as needed to ensure they remain this way.
