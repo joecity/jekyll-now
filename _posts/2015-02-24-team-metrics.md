@@ -42,7 +42,7 @@ Metrics are a sharp tool and need to be closely inspected.  Most importantly the
 
 ## Beware: using estimates or velocity to measure productivity
 
-So with the above said, I have already written a post expressing my thoughts on <a href="../posts/estimate-abuse">using estimates and velocity as a measurement of productivity</a>.
+So with the above said, I have already written a post expressing my thoughts on <a href="../posts/estimation-abuse">using estimates and velocity as a measurement of productivity</a>.
 
 In a nutshell, estimates are a quick and easy tool for the team to use.  It is fine for a team to track the velocity themselves so they can inspect and adapt on their team process.  Place too much importance on these figures though, or let them get into the wrong hands, and they can quickly lead to toxic results.
 
