@@ -83,10 +83,12 @@ This means sometimes as scrum masters or coaches, we might need to encourage the
 * Place high importance on continuous integration and automated deployments; measure how quickly and easily a feature can be developed, regression tested, demoed and released
 * Encourage pair programming
 
-Perhaps we could measure such quality metrics, and advertise the teams code quality success stories.  Emphasise, highlight, and celebrate team achievements where high quality is maintained.  Tell and even demonstrate the automated test coverage, announce how many builds and releases the team can now achieve each day, raise awareness when the team refactors and cleans a significant portion of the code base and say how much faster the team can now make updates to that business rule.
+Perhaps we could measure such quality metrics, and advertise the teams code quality success stories.  Emphasise, highlight, and celebrate team achievements where high quality is maintained.  Tell and even demonstrate the automated test coverage.  Announce how many builds and releases the team can now achieve each day.  Raise awareness when the team refactors and cleans a significant portion of the code base and say how much faster the team can now make updates to that business rule.  Brag about the quality of the code analysis when compared to industry averages.
+
+Basically, make good code quality practices a first class citizen!
 
 ## Summary
 
 It is very easy, and often the norm, to focus on speed alone.  We don't want to be that snowboarder who ploughed into a tree going 70kms an hour because we were going really fast but could not turn when we needed to.
 
-Once a team has established good agile practices and a culture of high quality output, the speed increase will come naturally, and more importantly safely and sustainably.  This means instead of having the software devolve into a slow, unmaintainable system that can hold the business back, we end up with a system that will continue to deliver value and an adaptable, competitive edge that can continue to drive the business forward.
+Once a team has established good agile practices and a culture of high quality output, the speed increase will come naturally, and more importantly safely and sustainably.  This means instead of having the software devolve into a slow, unmaintainable system that can hold the business back, we end up with a system that will continue to deliver value and an adaptable, competitive edge that will continue to drive the business forward.
