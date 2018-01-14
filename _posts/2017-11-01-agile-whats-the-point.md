@@ -35,15 +35,17 @@ The big picture, and I am paraphrasing from some of the creators of agile: to cl
 
 ### Individuals and Interactions - including those outside the team
 
-First on the Agile Manifesto is Individuals and Interactions over Tools and Processes - and we work hard to apply this within our teams.  However too often we can make things difficult, or even hostile, for those outside of the team.  Have you heard things like this:
+First on the Agile Manifesto is Individuals and Interactions over Tools and Processes - and we work hard to apply this within our teams.  However too often we can make things difficult, or even hostile, for those outside of the team.  To use some examples:
 
-"We only work with user stories"
-"That user story is a solution not a feature"
-"We cannot be disturbed mid sprint"
-"It'll be done when it's done and I don't know when that is"
-"A gant chart! Take that back to the eighties" (God help those poor souls who have presented a gant chart to an agile team)
+* "We only work with user stories"
+* "That user story is a solution not a feature"
+* "We cannot be disturbed mid sprint"
+* "It'll be done when it's done and I don't know when that is"
+* "A gant chart! Take that back to the eighties" (God help those poor souls who have presented a gant chart to an agile team)
 
 I'm not saying that these things are bad.  We should be creating stories that speak to value and not solutions, we should be minimising disruptions to the team.  However I have seen the way that these have been communicated or implemented can really drive a wedge here and cause people to think that agilists are disruptive, difficult to approach, and unreasonable.
+
+We need to remember that we are working with a business that needs to plan and make money, and also with people who have worked in these ways for 10, 20, 30 years - and really put value on our interactions with them.
 
 ### Lack of Transparency
 
