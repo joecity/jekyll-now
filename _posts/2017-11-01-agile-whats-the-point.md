@@ -27,7 +27,7 @@ Like everything, this is likely a result of a number of different reasons - I ca
 
 ### Missing the point of Agile
 
-####"Rowing harder doesn't help if the boat is headed in the wrong direction" - Kenichi Ohmae
+#### "Rowing harder doesn't help if the boat is headed in the wrong direction" - Kenichi Ohmae
 
 This can be one of the single biggest problems I see over and over again, where people put too much focus on vigorously performing certain actions or using a set of tools, and then missing the point of what Agile is trying to achieve.  Often they end up forcing the agile tools to fit in with their old ways of working and thinking - have you ever seen a backlog of hundreds or thousands of items, all estimated and put in a row so that the next 6 months is planned out?
 
@@ -39,7 +39,7 @@ Almost always, this often involves a large mindset and cultural shift.  Being aw
 
 ### Individuals and Interactions - including those outside the team
 
-####"Don't be an asshole" - Mari Takahashi
+#### "Don't be an asshole" - Mari Takahashi
 
 First on the Agile Manifesto is Individuals and Interactions over Tools and Processes - and we work hard to apply this within our teams.  However too often we can make things difficult, or even hostile, for those outside of the team.  To use some examples:
 
@@ -55,7 +55,7 @@ We need to remember that we are working with a business that needs to plan and m
 
 ### Lack of Transparency
 
-####"Scrum keeps everything about a project visible to everyone" - Ken Schwaber
+#### "Scrum keeps everything about a project visible to everyone" - Ken Schwaber
 
 I remember buying a garden sculpture on eBay once.  It looked like an amazing stone styled water feature which I was really excited about.  When it showed up, it was about 9cm tall and not fit to hold my neighbors dogs toothbrush.  Needless to say I was left with a really bad taste in my mouth!  In case you were interested, the seller said it was "Art" and "Subjective" which made me feel even more angry.
 
