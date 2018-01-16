@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agile has become a swearword around here"
-excerpt: "Is Agile getting a bad name?"
+excerpt: "Why the Agile Hate?"
 modified: 2017-11-01
 tags: [agile]
 comments: true
@@ -33,7 +33,11 @@ Yes - agile contains many different tools, techniques and patterns that can be u
 
 The big picture, and I am paraphrasing from some of the creators of agile: to close the gap between the business and the delivery team, to create highly performing teams in a highly creative, fast changing domain.
 
+Almost always, this often involves a large mindset and cultural shift.  Being aware of that, and working hard on changing, adopting and embracing this, is just as critical as picking up and using the tools and practices, or we risk performing the actions and missing the point completely!  We don't want to be that boxer who becomes the world champion at the skipping rope - but can't make use of that fitness in the ring.
+
 ### Individuals and Interactions - including those outside the team
+
+"Don't be an asshole" - Mari Takahashi
 
 First on the Agile Manifesto is Individuals and Interactions over Tools and Processes - and we work hard to apply this within our teams.  However too often we can make things difficult, or even hostile, for those outside of the team.  To use some examples:
 
@@ -45,7 +49,7 @@ First on the Agile Manifesto is Individuals and Interactions over Tools and Proc
 
 I'm not saying that these things are bad.  We should be creating stories that speak to value and not solutions, we should be minimising disruptions to the team.  However I have seen the way that these have been communicated or implemented can really drive a wedge here and cause people to think that agilists are disruptive, difficult to approach, and unreasonable.
 
-We need to remember that we are working with a business that needs to plan and make money, and also with people who have worked in these ways for 10, 20, 30 years - and really put value on our interactions with them.
+We need to remember that we are working with a business that needs to plan and make money, and also with people who have worked in their own ways for 10, 20, 30+ years!  We need to keep this in mind and really put value on our interactions with them.
 
 ### Lack of Transparency
 
@@ -53,7 +57,7 @@ We need to remember that we are working with a business that needs to plan and m
 
 I remember buying a garden sculpture on eBay once.  It looked like an amazing stone styled water feature which I was really excited about.  When it showed up, it was about 9cm tall and not fit to hold my neighbors dogs toothbrush.  Needless to say I was left with a really bad taste in my mouth!  In case you were interested, the seller said it was "Art" and "Subjective" which made me feel even more angry.
 
-Anyway - the point is - we don't want any surprises for the stakeholders here. We want to do everything we can to advertise, advertise, advertise what the team are doing!  The information should be everywhere:  This is what we are working on, this is what is coming up, this is our long term roadmap.  These are our challenges and risks, this is what we are doing about it, and this is how we are progressing.
+Anyway - the point is - we must do our best to be upfront with, and to avoid any potential surprises for the stakeholders. We want to do everything we can to advertise, advertise, advertise what the team are doing!  The information should be everywhere:  This is what we are working on, this is what is coming up, this is our long term roadmap.  These are our challenges and risks, this is what we are doing about it, and this is how we are progressing.
 
 I am a fan of having this information short and sharp - it should all be visible on a single powerpoint.  We can email that out, have that on our whiteboard, have that on our team home page.
 
