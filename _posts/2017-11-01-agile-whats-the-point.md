@@ -27,7 +27,9 @@ Like everything, this is likely a result of a number of different reasons - I ca
 
 ### Missing the point of Agile
 
-This can be one of the single biggest problems I see over and over again, where people put too much focus on performing certain actions or using a set of tools, missing the point of what Agile is trying to achieve, and then forcing the agile tools into their old ways of working thinking that everything is now Agile and things will be better.
+"Rowing harder doesn't help if the boat is headed in the wrong direction" - Kenichi Ohmae
+
+This can be one of the single biggest problems I see over and over again, where people put too much focus on vigorously performing certain actions or using a set of tools, and then missing the point of what Agile is trying to achieve.  Often they end up forcing the agile tools to fit in with their old ways of working and thinking - have you ever seen a backlog of hundreds or thousands of items, all estimated and put in a row so that the next 6 months is planned out?
 
 Yes - agile contains many different tools, techniques and patterns that can be used.  Scrum, Kanban, XP, Stand Ups, User Stories, Retrospectives, there are hundreds more - these are tools that can be really helpful and that are tried and true to bring success.  But focusing too much on these is like trying to be a boxer by only ever working the heavy bag, the skipping rope, and the speed ball.  Yes those things are proven tools to help to become a great boxer - but put too much focus on these things and you will miss the point of boxing and still get your ass whooped in the ring!
 
