@@ -29,13 +29,13 @@ Like everything, this is likely a result of a number of different reasons - I ca
 
 #### "Rowing harder doesn't help if the boat is headed in the wrong direction" - Kenichi Ohmae
 
-This can be one of the single biggest problems I see over and over again, where people put too much focus on vigorously performing certain actions or using a set of tools, and then missing the point of what Agile is trying to achieve.  Often they end up forcing the agile tools to fit in with their old ways of working and thinking - have you ever seen a backlog of hundreds or thousands of items, all estimated and put in a row so that the next 6 months is planned out?
+This can be one of the single biggest problems I see over and over again, where people put too much focus on vigorously performing certain actions or using a set of tools, and then missing the point of what those tools trying to help them achieve.  Often they end up forcing the agile tools to fit in with their old ways of working and thinking - have you ever seen a backlog of hundreds or thousands of items, all estimated and put in a row so that the next 6 months is planned out?
 
 Yes - agile contains many different tools, techniques and patterns that can be used.  Scrum, Kanban, XP, Stand Ups, User Stories, Retrospectives, there are hundreds more - these are tools that can be really helpful and that are tried and true to bring success.  But focusing too much on these is like trying to be a boxer by only ever working the heavy bag, the skipping rope, and the speed ball.  Yes those things are proven tools to help to become a great boxer - but put too much focus on these things and you will miss the point of boxing and still get your ass whooped in the ring!
 
-The big picture, and I am paraphrasing from some of the creators of agile: to close the gap between the business and the delivery team, to create highly performing teams in a highly creative, fast changing domain.
+The big picture, and I am paraphrasing from some of the creators of agile: to close the gap between the business and the delivery team, and create highly performing teams in a domain that is known for its complexity and fast pace of change.
 
-Almost always, this often involves a large mindset and cultural shift.  Being aware of that, and working hard on changing, adopting and embracing this, is just as critical as picking up and using the tools and practices, or we risk performing the actions and missing the point completely!  We don't want to be that boxer who becomes the world champion at the skipping rope - but can't make use of that fitness in the ring.
+Almost always, this involves a large mindset and cultural shift.  Being aware of that, and working hard on changing, adopting and embracing this, is just as critical as picking up and using the tools and practices, or we risk performing the actions and missing the point completely. We don't want to be that boxer who becomes the world champion at the skipping rope - but can't go two rounds in the ring.
 
 ### Individuals and Interactions - including those outside the team
 
